@@ -1,0 +1,2307 @@
+/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/deeprobust/graph/data/__init__.py:12: UserWarning: Please install pytorch geometric if you would like to use the datasets from pytorch geometric. See details in https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+  "etric.readthedocs.io/en/latest/notes/installation.html")
+/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/deeprobust/graph/defense/__init__.py:18: UserWarning: Please install pytorch geometric if you would like to use the datasets from pytorch geometric. See details in https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+  "etric.readthedocs.io/en/latest/notes/installation.html")
+No module named 'torch_geometric'
+No module named 'torch_geometric'
+load_ptbdata
+
+Perturbing graph:   0%|          | 0/791 [00:00<?, ?it/s]Perturbing graph:   0%|          | 1/791 [00:07<1:33:48,  7.13s/it]Perturbing graph:   0%|          | 2/791 [00:13<1:30:25,  6.88s/it]Perturbing graph:   0%|          | 3/791 [00:20<1:28:28,  6.74s/it]Perturbing graph:   1%|          | 4/791 [00:26<1:26:40,  6.61s/it]Perturbing graph:   1%|          | 5/791 [00:33<1:25:00,  6.49s/it]Perturbing graph:   1%|          | 6/791 [00:39<1:24:37,  6.47s/it]Perturbing graph:   1%|          | 7/791 [00:45<1:24:08,  6.44s/it]Perturbing graph:   1%|          | 8/791 [00:52<1:23:57,  6.43s/it]Perturbing graph:   1%|          | 9/791 [00:58<1:23:50,  6.43s/it]Perturbing graph:   1%|▏         | 10/791 [01:04<1:22:52,  6.37s/it]Perturbing graph:   1%|▏         | 11/791 [01:11<1:23:14,  6.40s/it]Perturbing graph:   2%|▏         | 12/791 [01:17<1:21:38,  6.29s/it]Perturbing graph:   2%|▏         | 13/791 [01:23<1:21:22,  6.28s/it]Perturbing graph:   2%|▏         | 14/791 [01:30<1:22:17,  6.35s/it]Perturbing graph:   2%|▏         | 15/791 [01:36<1:21:15,  6.28s/it]Perturbing graph:   2%|▏         | 16/791 [01:42<1:19:46,  6.18s/it]Perturbing graph:   2%|▏         | 17/791 [01:48<1:20:06,  6.21s/it]Perturbing graph:   2%|▏         | 18/791 [01:54<1:20:11,  6.22s/it]Perturbing graph:   2%|▏         | 19/791 [02:01<1:20:41,  6.27s/it]Perturbing graph:   3%|▎         | 20/791 [02:07<1:21:10,  6.32s/it]Perturbing graph:   3%|▎         | 21/791 [02:14<1:21:13,  6.33s/it]Perturbing graph:   3%|▎         | 22/791 [02:21<1:23:43,  6.53s/it]Perturbing graph:   3%|▎         | 23/791 [02:27<1:23:06,  6.49s/it]Perturbing graph:   3%|▎         | 24/791 [02:33<1:21:22,  6.37s/it]Perturbing graph:   3%|▎         | 25/791 [02:39<1:21:11,  6.36s/it]Perturbing graph:   3%|▎         | 26/791 [02:45<1:20:17,  6.30s/it]Perturbing graph:   3%|▎         | 27/791 [02:52<1:19:32,  6.25s/it]Perturbing graph:   4%|▎         | 28/791 [02:58<1:18:47,  6.20s/it]Perturbing graph:   4%|▎         | 29/791 [03:04<1:18:23,  6.17s/it]Perturbing graph:   4%|▍         | 30/791 [03:10<1:18:07,  6.16s/it]Perturbing graph:   4%|▍         | 31/791 [03:16<1:17:26,  6.11s/it]Perturbing graph:   4%|▍         | 32/791 [03:22<1:16:17,  6.03s/it]Perturbing graph:   4%|▍         | 33/791 [03:28<1:16:44,  6.07s/it]Perturbing graph:   4%|▍         | 34/791 [03:34<1:16:45,  6.08s/it]Perturbing graph:   4%|▍         | 35/791 [03:40<1:17:04,  6.12s/it]Perturbing graph:   5%|▍         | 36/791 [03:46<1:17:06,  6.13s/it]Perturbing graph:   5%|▍         | 37/791 [03:52<1:15:51,  6.04s/it]Perturbing graph:   5%|▍         | 38/791 [03:58<1:16:18,  6.08s/it]Perturbing graph:   5%|▍         | 39/791 [04:05<1:16:36,  6.11s/it]Perturbing graph:   5%|▌         | 40/791 [04:11<1:16:24,  6.10s/it]Perturbing graph:   5%|▌         | 41/791 [04:17<1:16:40,  6.13s/it]Perturbing graph:   5%|▌         | 42/791 [04:23<1:16:51,  6.16s/it]Perturbing graph:   5%|▌         | 43/791 [04:29<1:16:30,  6.14s/it]Perturbing graph:   6%|▌         | 44/791 [04:35<1:16:38,  6.16s/it]Perturbing graph:   6%|▌         | 45/791 [04:41<1:16:03,  6.12s/it]Perturbing graph:   6%|▌         | 46/791 [04:47<1:15:33,  6.08s/it]Perturbing graph:   6%|▌         | 47/791 [04:54<1:15:28,  6.09s/it]Perturbing graph:   6%|▌         | 48/791 [05:00<1:16:06,  6.15s/it]Perturbing graph:   6%|▌         | 49/791 [05:06<1:15:19,  6.09s/it]Perturbing graph:   6%|▋         | 50/791 [05:12<1:15:41,  6.13s/it]Perturbing graph:   6%|▋         | 51/791 [05:18<1:16:06,  6.17s/it]Perturbing graph:   7%|▋         | 52/791 [05:24<1:16:14,  6.19s/it]Perturbing graph:   7%|▋         | 53/791 [05:31<1:17:37,  6.31s/it]Perturbing graph:   7%|▋         | 54/791 [05:37<1:16:16,  6.21s/it]Perturbing graph:   7%|▋         | 55/791 [05:43<1:15:03,  6.12s/it]Perturbing graph:   7%|▋         | 56/791 [05:49<1:14:10,  6.06s/it]Perturbing graph:   7%|▋         | 57/791 [05:55<1:13:35,  6.02s/it]Perturbing graph:   7%|▋         | 58/791 [06:01<1:13:34,  6.02s/it]Perturbing graph:   7%|▋         | 59/791 [06:07<1:13:17,  6.01s/it]Perturbing graph:   8%|▊         | 60/791 [06:13<1:13:04,  6.00s/it]Perturbing graph:   8%|▊         | 61/791 [06:19<1:12:08,  5.93s/it]Perturbing graph:   8%|▊         | 62/791 [06:24<1:11:56,  5.92s/it]Perturbing graph:   8%|▊         | 63/791 [06:31<1:12:18,  5.96s/it]Perturbing graph:   8%|▊         | 64/791 [06:36<1:12:13,  5.96s/it]Perturbing graph:   8%|▊         | 65/791 [06:42<1:12:15,  5.97s/it]Perturbing graph:   8%|▊         | 66/791 [06:48<1:11:45,  5.94s/it]Perturbing graph:   8%|▊         | 67/791 [06:54<1:11:22,  5.91s/it]Perturbing graph:   9%|▊         | 68/791 [07:00<1:11:00,  5.89s/it]Perturbing graph:   9%|▊         | 69/791 [07:06<1:11:00,  5.90s/it]GCN loss on unlabled data: 0.7222634553909302
+GCN acc on unlabled data: 0.7846666666666666
+attack loss: 0.4422036409378052
+GCN loss on unlabled data: 0.7335459589958191
+GCN acc on unlabled data: 0.784
+attack loss: 0.44230329990386963
+GCN loss on unlabled data: 0.6953020691871643
+GCN acc on unlabled data: 0.7933333333333333
+attack loss: 0.4346175491809845
+GCN loss on unlabled data: 0.7235893607139587
+GCN acc on unlabled data: 0.784
+attack loss: 0.4501090943813324
+GCN loss on unlabled data: 0.7154853343963623
+GCN acc on unlabled data: 0.7733333333333333
+attack loss: 0.44652020931243896
+GCN loss on unlabled data: 0.7441218495368958
+GCN acc on unlabled data: 0.782
+attack loss: 0.4569745659828186
+GCN loss on unlabled data: 0.7159980535507202
+GCN acc on unlabled data: 0.7813333333333333
+attack loss: 0.437796950340271
+GCN loss on unlabled data: 0.730701744556427
+GCN acc on unlabled data: 0.766
+attack loss: 0.48765307664871216
+GCN loss on unlabled data: 0.7557210326194763
+GCN acc on unlabled data: 0.7646666666666667
+attack loss: 0.4788968563079834
+GCN loss on unlabled data: 0.7713701128959656
+GCN acc on unlabled data: 0.7746666666666666
+attack loss: 0.49957650899887085
+GCN loss on unlabled data: 0.7318997383117676
+GCN acc on unlabled data: 0.782
+attack loss: 0.4976537227630615
+GCN loss on unlabled data: 0.7593953609466553
+GCN acc on unlabled data: 0.7693333333333333
+attack loss: 0.4911107122898102
+GCN loss on unlabled data: 0.7327756881713867
+GCN acc on unlabled data: 0.7766666666666666
+attack loss: 0.46018415689468384
+GCN loss on unlabled data: 0.7604056596755981
+GCN acc on unlabled data: 0.7706666666666667
+attack loss: 0.5000644326210022
+GCN loss on unlabled data: 0.7844944000244141
+GCN acc on unlabled data: 0.7573333333333333
+attack loss: 0.5218991637229919
+GCN loss on unlabled data: 0.7509671449661255
+GCN acc on unlabled data: 0.7706666666666667
+attack loss: 0.5123971104621887
+GCN loss on unlabled data: 0.8009418845176697
+GCN acc on unlabled data: 0.7646666666666667
+attack loss: 0.5107356309890747
+GCN loss on unlabled data: 0.7799452543258667
+GCN acc on unlabled data: 0.7653333333333333
+attack loss: 0.5066004395484924
+GCN loss on unlabled data: 0.7479962706565857
+GCN acc on unlabled data: 0.774
+attack loss: 0.4870834946632385
+GCN loss on unlabled data: 0.7705913186073303
+GCN acc on unlabled data: 0.764
+attack loss: 0.5288622379302979
+GCN loss on unlabled data: 0.7761651277542114
+GCN acc on unlabled data: 0.764
+attack loss: 0.5170397162437439
+GCN loss on unlabled data: 0.7796786427497864
+GCN acc on unlabled data: 0.7553333333333333
+attack loss: 0.5171929597854614
+GCN loss on unlabled data: 0.8085806369781494
+GCN acc on unlabled data: 0.758
+attack loss: 0.5264897346496582
+GCN loss on unlabled data: 0.7718210220336914
+GCN acc on unlabled data: 0.762
+attack loss: 0.5291091203689575
+GCN loss on unlabled data: 0.7593818306922913
+GCN acc on unlabled data: 0.7793333333333333
+attack loss: 0.5452952980995178
+GCN loss on unlabled data: 0.7907690405845642
+GCN acc on unlabled data: 0.76
+attack loss: 0.5435180068016052
+GCN loss on unlabled data: 0.871433436870575
+GCN acc on unlabled data: 0.7533333333333333
+attack loss: 0.6066237092018127
+GCN loss on unlabled data: 0.7909724712371826
+GCN acc on unlabled data: 0.7713333333333333
+attack loss: 0.5797422528266907
+GCN loss on unlabled data: 0.7938647270202637
+GCN acc on unlabled data: 0.7626666666666667
+attack loss: 0.5420316457748413
+GCN loss on unlabled data: 0.8778352737426758
+GCN acc on unlabled data: 0.758
+attack loss: 0.5810010433197021
+GCN loss on unlabled data: 0.8802260756492615
+GCN acc on unlabled data: 0.7433333333333333
+attack loss: 0.5512612462043762
+GCN loss on unlabled data: 0.8213093280792236
+GCN acc on unlabled data: 0.7493333333333333
+attack loss: 0.5717575550079346
+GCN loss on unlabled data: 0.8351340293884277
+GCN acc on unlabled data: 0.762
+attack loss: 0.5731918811798096
+GCN loss on unlabled data: 0.822421133518219
+GCN acc on unlabled data: 0.752
+attack loss: 0.5824583172798157
+GCN loss on unlabled data: 0.8513491153717041
+GCN acc on unlabled data: 0.7526666666666667
+attack loss: 0.5916249752044678
+GCN loss on unlabled data: 0.8656002879142761
+GCN acc on unlabled data: 0.7466666666666667
+attack loss: 0.6099624633789062
+GCN loss on unlabled data: 0.8660302758216858
+GCN acc on unlabled data: 0.7406666666666667
+attack loss: 0.5992209911346436
+GCN loss on unlabled data: 0.8921015858650208
+GCN acc on unlabled data: 0.7446666666666667
+attack loss: 0.6171583533287048
+GCN loss on unlabled data: 0.8750207424163818
+GCN acc on unlabled data: 0.7493333333333333
+attack loss: 0.6233910322189331
+GCN loss on unlabled data: 0.8526963591575623
+GCN acc on unlabled data: 0.7333333333333333
+attack loss: 0.6238884925842285
+GCN loss on unlabled data: 0.8965113162994385
+GCN acc on unlabled data: 0.734
+attack loss: 0.6567907929420471
+GCN loss on unlabled data: 0.8582367897033691
+GCN acc on unlabled data: 0.732
+attack loss: 0.6119188666343689
+GCN loss on unlabled data: 0.944229006767273
+GCN acc on unlabled data: 0.7293333333333333
+attack loss: 0.6896440982818604
+GCN loss on unlabled data: 0.901924729347229
+GCN acc on unlabled data: 0.7306666666666667
+attack loss: 0.6915895938873291
+GCN loss on unlabled data: 0.9386380314826965
+GCN acc on unlabled data: 0.7313333333333333
+attack loss: 0.6821259260177612
+GCN loss on unlabled data: 0.9275490641593933
+GCN acc on unlabled data: 0.7233333333333334
+attack loss: 0.6601406931877136
+GCN loss on unlabled data: 0.9107679724693298
+GCN acc on unlabled data: 0.7373333333333333
+attack loss: 0.6559465527534485
+GCN loss on unlabled data: 0.9331774115562439
+GCN acc on unlabled data: 0.7293333333333333
+attack loss: 0.6952320337295532
+GCN loss on unlabled data: 0.9428042769432068
+GCN acc on unlabled data: 0.7293333333333333
+attack loss: 0.6636643409729004
+GCN loss on unlabled data: 0.9599609375
+GCN acc on unlabled data: 0.7173333333333334
+attack loss: 0.736848771572113
+GCN loss on unlabled data: 0.9741356372833252
+GCN acc on unlabled data: 0.7193333333333334
+attack loss: 0.714338481426239
+GCN loss on unlabled data: 0.9803049564361572
+GCN acc on unlabled data: 0.7173333333333334
+attack loss: 0.7246098518371582
+GCN loss on unlabled data: 0.948554515838623
+GCN acc on unlabled data: 0.7193333333333334
+attack loss: 0.7179202437400818
+GCN loss on unlabled data: 0.9609468579292297
+GCN acc on unlabled data: 0.722
+attack loss: 0.7187907099723816
+GCN loss on unlabled data: 0.9504770636558533
+GCN acc on unlabled data: 0.7186666666666667
+attack loss: 0.7417921423912048
+GCN loss on unlabled data: 1.0065193176269531
+GCN acc on unlabled data: 0.7213333333333334
+attack loss: 0.764783501625061
+GCN loss on unlabled data: 0.9801265597343445
+GCN acc on unlabled data: 0.7133333333333334
+attack loss: 0.7462813258171082
+GCN loss on unlabled data: 0.9400690197944641
+GCN acc on unlabled data: 0.7246666666666667
+attack loss: 0.7658987045288086
+GCN loss on unlabled data: 0.9107913374900818
+GCN acc on unlabled data: 0.716
+attack loss: 0.722926676273346
+GCN loss on unlabled data: 0.97161465883255
+GCN acc on unlabled data: 0.718
+attack loss: 0.7643672823905945
+GCN loss on unlabled data: 0.9495252966880798
+GCN acc on unlabled data: 0.7266666666666667
+attack loss: 0.7144448161125183
+GCN loss on unlabled data: 0.930152416229248
+GCN acc on unlabled data: 0.7326666666666667
+attack loss: 0.7067040205001831
+GCN loss on unlabled data: 0.9514619708061218
+GCN acc on unlabled data: 0.734
+attack loss: 0.7913858890533447
+GCN loss on unlabled data: 1.0249022245407104
+GCN acc on unlabled data: 0.7253333333333334
+attack loss: 0.817557692527771
+GCN loss on unlabled data: 0.9719696640968323
+GCN acc on unlabled data: 0.72
+attack loss: 0.7621688842773438
+GCN loss on unlabled data: 1.0239695310592651
+GCN acc on unlabled data: 0.7126666666666667
+attack loss: 0.746919572353363
+GCN loss on unlabled data: 1.042117714881897
+GCN acc on unlabled data: 0.718
+attack loss: 0.7917165756225586
+GCN loss on unlabled data: 1.0311241149902344
+GCN acc on unlabled data: 0.7213333333333334
+attack loss: 0.7844234108924866
+GCN loss on unlabled data: 1.0886285305023193
+GCN acc on unlabled data: 0.7033333333333334
+attack loss: 0.8276846408843994
+GCN loss on unlabled data: 1.0711205005645752Perturbing graph:   9%|▉         | 70/791 [07:12<1:11:09,  5.92s/it]Perturbing graph:   9%|▉         | 71/791 [07:18<1:11:05,  5.92s/it]Perturbing graph:   9%|▉         | 72/791 [07:24<1:11:37,  5.98s/it]Perturbing graph:   9%|▉         | 73/791 [07:30<1:10:59,  5.93s/it]Perturbing graph:   9%|▉         | 74/791 [07:36<1:10:42,  5.92s/it]Perturbing graph:   9%|▉         | 75/791 [07:42<1:10:24,  5.90s/it]Perturbing graph:  10%|▉         | 76/791 [07:48<1:10:44,  5.94s/it]Perturbing graph:  10%|▉         | 77/791 [07:54<1:10:55,  5.96s/it]Perturbing graph:  10%|▉         | 78/791 [08:00<1:11:02,  5.98s/it]Perturbing graph:  10%|▉         | 79/791 [08:06<1:11:11,  6.00s/it]Perturbing graph:  10%|█         | 80/791 [08:12<1:10:59,  5.99s/it]Perturbing graph:  10%|█         | 81/791 [08:18<1:10:44,  5.98s/it]Perturbing graph:  10%|█         | 82/791 [08:23<1:10:12,  5.94s/it]Perturbing graph:  10%|█         | 83/791 [08:29<1:10:09,  5.95s/it]Perturbing graph:  11%|█         | 84/791 [08:36<1:10:58,  6.02s/it]Perturbing graph:  11%|█         | 85/791 [08:42<1:10:55,  6.03s/it]Perturbing graph:  11%|█         | 86/791 [08:48<1:10:28,  6.00s/it]Perturbing graph:  11%|█         | 87/791 [08:54<1:10:34,  6.02s/it]Perturbing graph:  11%|█         | 88/791 [09:00<1:10:17,  6.00s/it]Perturbing graph:  11%|█▏        | 89/791 [09:06<1:10:17,  6.01s/it]Perturbing graph:  11%|█▏        | 90/791 [09:11<1:09:52,  5.98s/it]Perturbing graph:  12%|█▏        | 91/791 [09:18<1:09:59,  6.00s/it]Perturbing graph:  12%|█▏        | 92/791 [09:24<1:10:04,  6.02s/it]Perturbing graph:  12%|█▏        | 93/791 [09:30<1:09:47,  6.00s/it]Perturbing graph:  12%|█▏        | 94/791 [09:36<1:09:49,  6.01s/it]Perturbing graph:  12%|█▏        | 95/791 [09:42<1:09:34,  6.00s/it]Perturbing graph:  12%|█▏        | 96/791 [09:48<1:09:31,  6.00s/it]Perturbing graph:  12%|█▏        | 97/791 [09:54<1:09:12,  5.98s/it]Perturbing graph:  12%|█▏        | 98/791 [09:59<1:08:30,  5.93s/it]Perturbing graph:  13%|█▎        | 99/791 [10:05<1:07:50,  5.88s/it]Perturbing graph:  13%|█▎        | 100/791 [10:11<1:08:23,  5.94s/it]Perturbing graph:  13%|█▎        | 101/791 [10:17<1:08:22,  5.95s/it]Perturbing graph:  13%|█▎        | 102/791 [10:23<1:08:20,  5.95s/it]Perturbing graph:  13%|█▎        | 103/791 [10:29<1:08:18,  5.96s/it]Perturbing graph:  13%|█▎        | 104/791 [10:35<1:08:12,  5.96s/it]Perturbing graph:  13%|█▎        | 105/791 [10:41<1:07:29,  5.90s/it]Perturbing graph:  13%|█▎        | 106/791 [10:47<1:07:34,  5.92s/it]Perturbing graph:  14%|█▎        | 107/791 [10:53<1:07:41,  5.94s/it]Perturbing graph:  14%|█▎        | 108/791 [10:59<1:07:04,  5.89s/it]Perturbing graph:  14%|█▍        | 109/791 [11:04<1:07:11,  5.91s/it]Perturbing graph:  14%|█▍        | 110/791 [11:10<1:07:21,  5.93s/it]Perturbing graph:  14%|█▍        | 111/791 [11:16<1:07:10,  5.93s/it]Perturbing graph:  14%|█▍        | 112/791 [11:22<1:06:39,  5.89s/it]Perturbing graph:  14%|█▍        | 113/791 [11:28<1:06:55,  5.92s/it]Perturbing graph:  14%|█▍        | 114/791 [11:34<1:07:06,  5.95s/it]Perturbing graph:  15%|█▍        | 115/791 [11:40<1:06:55,  5.94s/it]Perturbing graph:  15%|█▍        | 116/791 [11:46<1:06:28,  5.91s/it]Perturbing graph:  15%|█▍        | 117/791 [11:52<1:06:13,  5.89s/it]Perturbing graph:  15%|█▍        | 118/791 [11:58<1:06:29,  5.93s/it]Perturbing graph:  15%|█▌        | 119/791 [12:04<1:06:22,  5.93s/it]Perturbing graph:  15%|█▌        | 120/791 [12:10<1:05:56,  5.90s/it]Perturbing graph:  15%|█▌        | 121/791 [12:15<1:05:48,  5.89s/it]Perturbing graph:  15%|█▌        | 122/791 [12:21<1:06:15,  5.94s/it]Perturbing graph:  16%|█▌        | 123/791 [12:28<1:06:28,  5.97s/it]Perturbing graph:  16%|█▌        | 124/791 [12:33<1:05:58,  5.93s/it]Perturbing graph:  16%|█▌        | 125/791 [12:39<1:05:44,  5.92s/it]Perturbing graph:  16%|█▌        | 126/791 [12:45<1:05:32,  5.91s/it]Perturbing graph:  16%|█▌        | 127/791 [12:51<1:05:25,  5.91s/it]Perturbing graph:  16%|█▌        | 128/791 [12:57<1:05:00,  5.88s/it]Perturbing graph:  16%|█▋        | 129/791 [13:03<1:05:01,  5.89s/it]Perturbing graph:  16%|█▋        | 130/791 [13:09<1:05:17,  5.93s/it]Perturbing graph:  17%|█▋        | 131/791 [13:15<1:04:59,  5.91s/it]Perturbing graph:  17%|█▋        | 132/791 [13:20<1:04:33,  5.88s/it]Perturbing graph:  17%|█▋        | 133/791 [13:26<1:03:59,  5.84s/it]Perturbing graph:  17%|█▋        | 134/791 [13:32<1:03:41,  5.82s/it]Perturbing graph:  17%|█▋        | 135/791 [13:38<1:03:51,  5.84s/it]Perturbing graph:  17%|█▋        | 136/791 [13:44<1:03:48,  5.85s/it]Perturbing graph:  17%|█▋        | 137/791 [13:50<1:04:01,  5.87s/it]Perturbing graph:  17%|█▋        | 138/791 [13:56<1:03:49,  5.87s/it]
+GCN acc on unlabled data: 0.6973333333333334
+attack loss: 0.8369673490524292
+GCN loss on unlabled data: 1.026134729385376
+GCN acc on unlabled data: 0.704
+attack loss: 0.7728813290596008
+GCN loss on unlabled data: 0.976104736328125
+GCN acc on unlabled data: 0.7206666666666667
+attack loss: 0.7572653889656067
+GCN loss on unlabled data: 1.0315684080123901
+GCN acc on unlabled data: 0.706
+attack loss: 0.7912940979003906
+GCN loss on unlabled data: 1.0621477365493774
+GCN acc on unlabled data: 0.7
+attack loss: 0.8083130717277527
+GCN loss on unlabled data: 1.0307471752166748
+GCN acc on unlabled data: 0.714
+attack loss: 0.7862330675125122
+GCN loss on unlabled data: 0.9720801711082458
+GCN acc on unlabled data: 0.7173333333333334
+attack loss: 0.7562866806983948
+GCN loss on unlabled data: 1.003358006477356
+GCN acc on unlabled data: 0.7046666666666667
+attack loss: 0.7990459203720093
+GCN loss on unlabled data: 1.0656121969223022
+GCN acc on unlabled data: 0.6966666666666667
+attack loss: 0.8093063235282898
+GCN loss on unlabled data: 1.0447678565979004
+GCN acc on unlabled data: 0.7026666666666667
+attack loss: 0.8163140416145325
+GCN loss on unlabled data: 1.0374785661697388
+GCN acc on unlabled data: 0.7086666666666667
+attack loss: 0.814470648765564
+GCN loss on unlabled data: 1.0549495220184326
+GCN acc on unlabled data: 0.6973333333333334
+attack loss: 0.8689533472061157
+GCN loss on unlabled data: 1.0770597457885742
+GCN acc on unlabled data: 0.6866666666666666
+attack loss: 0.8901533484458923
+GCN loss on unlabled data: 1.0510979890823364
+GCN acc on unlabled data: 0.6873333333333334
+attack loss: 0.8690974712371826
+GCN loss on unlabled data: 1.0952249765396118
+GCN acc on unlabled data: 0.7026666666666667
+attack loss: 0.8946363925933838
+GCN loss on unlabled data: 1.1125081777572632
+GCN acc on unlabled data: 0.7066666666666667
+attack loss: 0.9004309773445129
+GCN loss on unlabled data: 1.1566710472106934
+GCN acc on unlabled data: 0.6733333333333333
+attack loss: 0.9731349945068359
+GCN loss on unlabled data: 0.9951853156089783
+GCN acc on unlabled data: 0.716
+attack loss: 0.7405259013175964
+GCN loss on unlabled data: 1.0489418506622314
+GCN acc on unlabled data: 0.7113333333333334
+attack loss: 0.8437440395355225
+GCN loss on unlabled data: 1.0628633499145508
+GCN acc on unlabled data: 0.706
+attack loss: 0.8712189793586731
+GCN loss on unlabled data: 1.1131618022918701
+GCN acc on unlabled data: 0.7153333333333334
+attack loss: 0.8766676187515259
+GCN loss on unlabled data: 1.0060093402862549
+GCN acc on unlabled data: 0.704
+attack loss: 0.8334265947341919
+GCN loss on unlabled data: 1.1368409395217896
+GCN acc on unlabled data: 0.6893333333333334
+attack loss: 0.9099496006965637
+GCN loss on unlabled data: 1.1889686584472656
+GCN acc on unlabled data: 0.692
+attack loss: 1.0084095001220703
+GCN loss on unlabled data: 1.105241298675537
+GCN acc on unlabled data: 0.6953333333333334
+attack loss: 0.9386749863624573
+GCN loss on unlabled data: 1.079181432723999
+GCN acc on unlabled data: 0.6973333333333334
+attack loss: 0.8612551093101501
+GCN loss on unlabled data: 1.1089802980422974
+GCN acc on unlabled data: 0.708
+attack loss: 0.9209545254707336
+GCN loss on unlabled data: 1.1090797185897827
+GCN acc on unlabled data: 0.7046666666666667
+attack loss: 0.9063652157783508
+GCN loss on unlabled data: 1.1080632209777832
+GCN acc on unlabled data: 0.708
+attack loss: 0.9467368721961975
+GCN loss on unlabled data: 1.0977392196655273
+GCN acc on unlabled data: 0.6946666666666667
+attack loss: 0.900921642780304
+GCN loss on unlabled data: 1.1033509969711304
+GCN acc on unlabled data: 0.6766666666666666
+attack loss: 0.9371188879013062
+GCN loss on unlabled data: 1.087959885597229
+GCN acc on unlabled data: 0.69
+attack loss: 0.9675589203834534
+GCN loss on unlabled data: 1.1152410507202148
+GCN acc on unlabled data: 0.6866666666666666
+attack loss: 0.8994969725608826
+GCN loss on unlabled data: 1.1171256303787231
+GCN acc on unlabled data: 0.6866666666666666
+attack loss: 0.9305731058120728
+GCN loss on unlabled data: 1.1116080284118652
+GCN acc on unlabled data: 0.6773333333333333
+attack loss: 0.9535294771194458
+GCN loss on unlabled data: 1.12232506275177
+GCN acc on unlabled data: 0.682
+attack loss: 0.9380038380622864
+GCN loss on unlabled data: 1.1242477893829346
+GCN acc on unlabled data: 0.6826666666666666
+attack loss: 0.9485065937042236
+GCN loss on unlabled data: 1.1082857847213745
+GCN acc on unlabled data: 0.6953333333333334
+attack loss: 0.9241695404052734
+GCN loss on unlabled data: 1.0985918045043945
+GCN acc on unlabled data: 0.6926666666666667
+attack loss: 0.9208184480667114
+GCN loss on unlabled data: 1.1376436948776245
+GCN acc on unlabled data: 0.694
+attack loss: 0.9603493809700012
+GCN loss on unlabled data: 1.0953012704849243
+GCN acc on unlabled data: 0.6886666666666666
+attack loss: 0.939143717288971
+GCN loss on unlabled data: 1.1818315982818604
+GCN acc on unlabled data: 0.6833333333333333
+attack loss: 0.9765266180038452
+GCN loss on unlabled data: 1.1133451461791992
+GCN acc on unlabled data: 0.6953333333333334
+attack loss: 0.9048357605934143
+GCN loss on unlabled data: 1.159606695175171
+GCN acc on unlabled data: 0.6813333333333333
+attack loss: 0.9742663502693176
+GCN loss on unlabled data: 1.1688312292099
+GCN acc on unlabled data: 0.6766666666666666
+attack loss: 1.0112624168395996
+GCN loss on unlabled data: 1.2254011631011963
+GCN acc on unlabled data: 0.678
+attack loss: 1.0066654682159424
+GCN loss on unlabled data: 1.1246980428695679
+GCN acc on unlabled data: 0.69
+attack loss: 0.9647185206413269
+GCN loss on unlabled data: 1.1810827255249023
+GCN acc on unlabled data: 0.6726666666666666
+attack loss: 1.007715106010437
+GCN loss on unlabled data: 1.1941317319869995
+GCN acc on unlabled data: 0.694
+attack loss: 1.0362521409988403
+GCN loss on unlabled data: 1.1285481452941895
+GCN acc on unlabled data: 0.7
+attack loss: 0.9612188339233398
+GCN loss on unlabled data: 1.1725603342056274
+GCN acc on unlabled data: 0.6886666666666666
+attack loss: 1.0213109254837036
+GCN loss on unlabled data: 1.1724789142608643
+GCN acc on unlabled data: 0.688
+attack loss: 0.9983339905738831
+GCN loss on unlabled data: 1.2093312740325928
+GCN acc on unlabled data: 0.6706666666666666
+attack loss: 1.0274664163589478
+GCN loss on unlabled data: 1.1944830417633057
+GCN acc on unlabled data: 0.6793333333333333
+attack loss: 0.9966250658035278
+GCN loss on unlabled data: 1.2251794338226318
+GCN acc on unlabled data: 0.6753333333333333
+attack loss: 1.0853341817855835
+GCN loss on unlabled data: 1.2508230209350586
+GCN acc on unlabled data: 0.672
+attack loss: 1.057315707206726
+GCN loss on unlabled data: 1.1777405738830566
+GCN acc on unlabled data: 0.6806666666666666
+attack loss: 0.9779030084609985
+GCN loss on unlabled data: 1.2445945739746094
+GCN acc on unlabled data: 0.6726666666666666
+attack loss: 1.0410678386688232
+GCN loss on unlabled data: 1.275075912475586
+GCN acc on unlabled data: 0.678
+attack loss: 1.087720513343811
+GCN loss on unlabled data: 1.1909139156341553
+GCN acc on unlabled data: 0.6966666666666667
+attack loss: 1.056389570236206
+GCN loss on unlabled data: 1.2707411050796509
+GCN acc on unlabled data: 0.6686666666666666
+attack loss: 1.123401403427124
+GCN loss on unlabled data: 1.2599414587020874
+GCN acc on unlabled data: 0.6606666666666666
+attack loss: 1.0829379558563232
+GCN loss on unlabled data: 1.1977671384811401
+GCN acc on unlabled data: 0.6653333333333333
+attack loss: 1.0025722980499268
+GCN loss on unlabled data: 1.1759322881698608
+GCN acc on unlabled data: 0.6813333333333333
+attack loss: 1.0505971908569336
+GCN loss on unlabled data: 1.202375054359436
+GCN acc on unlabled data: 0.686
+attack loss: 1.0929272174835205
+GCN loss on unlabled data: 1.2583162784576416
+GCN acc on unlabled data: 0.656
+attack loss: 1.1423031091690063
+GCN loss on unlabled data: 1.2785212993621826
+GCN acc on unlabled data: 0.6653333333333333
+attack loss: 1.1724406480789185
+GCN loss on unlabled data: 1.2999883890151978
+GCN acc on unlabled data: 0.6626666666666666
+attack loss: 1.1795198917388916
+GCN loss on unlabled data: 1.2613900899887085
+GCN acc on unlabled data: 0.66
+attack loss: 1.0897146463394165
+GCN loss on unlabled data: 1.3000863790512085
+GCN acc on unlabled data: 0.6533333333333333Perturbing graph:  18%|█▊        | 139/791 [14:01<1:03:28,  5.84s/it]Perturbing graph:  18%|█▊        | 140/791 [14:07<1:03:06,  5.82s/it]Perturbing graph:  18%|█▊        | 141/791 [14:13<1:03:29,  5.86s/it]Perturbing graph:  18%|█▊        | 142/791 [14:19<1:03:43,  5.89s/it]Perturbing graph:  18%|█▊        | 143/791 [14:25<1:03:53,  5.92s/it]Perturbing graph:  18%|█▊        | 144/791 [14:31<1:03:47,  5.92s/it]Perturbing graph:  18%|█▊        | 145/791 [14:37<1:03:25,  5.89s/it]Perturbing graph:  18%|█▊        | 146/791 [14:43<1:04:06,  5.96s/it]Perturbing graph:  19%|█▊        | 147/791 [14:49<1:04:01,  5.97s/it]Perturbing graph:  19%|█▊        | 148/791 [14:55<1:03:30,  5.93s/it]Perturbing graph:  19%|█▉        | 149/791 [15:01<1:03:11,  5.91s/it]Perturbing graph:  19%|█▉        | 150/791 [15:06<1:03:02,  5.90s/it]Perturbing graph:  19%|█▉        | 151/791 [15:12<1:02:51,  5.89s/it]Perturbing graph:  19%|█▉        | 152/791 [15:18<1:02:14,  5.84s/it]Perturbing graph:  19%|█▉        | 153/791 [15:24<1:01:45,  5.81s/it]Perturbing graph:  19%|█▉        | 154/791 [15:30<1:01:57,  5.84s/it]Perturbing graph:  20%|█▉        | 155/791 [15:36<1:02:12,  5.87s/it]Perturbing graph:  20%|█▉        | 156/791 [15:41<1:02:06,  5.87s/it]Perturbing graph:  20%|█▉        | 157/791 [15:47<1:01:47,  5.85s/it]Perturbing graph:  20%|█▉        | 158/791 [15:53<1:01:55,  5.87s/it]Perturbing graph:  20%|██        | 159/791 [15:59<1:01:56,  5.88s/it]Perturbing graph:  20%|██        | 160/791 [16:05<1:01:43,  5.87s/it]Perturbing graph:  20%|██        | 161/791 [16:11<1:01:31,  5.86s/it]Perturbing graph:  20%|██        | 162/791 [16:17<1:01:09,  5.83s/it]Perturbing graph:  21%|██        | 163/791 [16:22<1:00:49,  5.81s/it]Perturbing graph:  21%|██        | 164/791 [16:28<1:00:58,  5.84s/it]Perturbing graph:  21%|██        | 165/791 [16:34<1:01:02,  5.85s/it]Perturbing graph:  21%|██        | 166/791 [16:40<1:01:17,  5.88s/it]Perturbing graph:  21%|██        | 167/791 [16:46<1:00:58,  5.86s/it]Perturbing graph:  21%|██        | 168/791 [16:52<1:01:33,  5.93s/it]Perturbing graph:  21%|██▏       | 169/791 [16:58<1:01:35,  5.94s/it]Perturbing graph:  21%|██▏       | 170/791 [17:04<1:01:08,  5.91s/it]Perturbing graph:  22%|██▏       | 171/791 [17:10<1:00:52,  5.89s/it]Perturbing graph:  22%|██▏       | 172/791 [17:16<1:01:03,  5.92s/it]Perturbing graph:  22%|██▏       | 173/791 [17:21<1:00:47,  5.90s/it]Perturbing graph:  22%|██▏       | 174/791 [17:27<1:00:34,  5.89s/it]Perturbing graph:  22%|██▏       | 175/791 [17:33<1:00:06,  5.85s/it]Perturbing graph:  22%|██▏       | 176/791 [17:39<59:43,  5.83s/it]  Perturbing graph:  22%|██▏       | 177/791 [17:45<59:57,  5.86s/it]Perturbing graph:  23%|██▎       | 178/791 [17:51<1:00:09,  5.89s/it]Perturbing graph:  23%|██▎       | 179/791 [17:57<59:56,  5.88s/it]  Perturbing graph:  23%|██▎       | 180/791 [18:03<1:00:07,  5.91s/it]Perturbing graph:  23%|██▎       | 181/791 [18:08<1:00:08,  5.92s/it]Perturbing graph:  23%|██▎       | 182/791 [18:14<59:37,  5.87s/it]  Perturbing graph:  23%|██▎       | 183/791 [18:20<59:50,  5.91s/it]Perturbing graph:  23%|██▎       | 184/791 [18:26<59:51,  5.92s/it]Perturbing graph:  23%|██▎       | 185/791 [18:32<59:44,  5.91s/it]Perturbing graph:  24%|██▎       | 186/791 [18:38<59:11,  5.87s/it]Perturbing graph:  24%|██▎       | 187/791 [18:44<59:25,  5.90s/it]Perturbing graph:  24%|██▍       | 188/791 [18:50<59:21,  5.91s/it]Perturbing graph:  24%|██▍       | 189/791 [18:55<58:47,  5.86s/it]Perturbing graph:  24%|██▍       | 190/791 [19:01<58:28,  5.84s/it]Perturbing graph:  24%|██▍       | 191/791 [19:07<58:19,  5.83s/it]Perturbing graph:  24%|██▍       | 192/791 [19:13<58:25,  5.85s/it]Perturbing graph:  24%|██▍       | 193/791 [19:19<58:40,  5.89s/it]Perturbing graph:  25%|██▍       | 194/791 [19:25<58:25,  5.87s/it]Perturbing graph:  25%|██▍       | 195/791 [19:31<58:04,  5.85s/it]Perturbing graph:  25%|██▍       | 196/791 [19:36<58:04,  5.86s/it]Perturbing graph:  25%|██▍       | 197/791 [19:42<58:13,  5.88s/it]Perturbing graph:  25%|██▌       | 198/791 [19:48<57:56,  5.86s/it]Perturbing graph:  25%|██▌       | 199/791 [19:54<57:30,  5.83s/it]Perturbing graph:  25%|██▌       | 200/791 [20:00<57:13,  5.81s/it]Perturbing graph:  25%|██▌       | 201/791 [20:06<57:00,  5.80s/it]Perturbing graph:  26%|██▌       | 202/791 [20:11<57:19,  5.84s/it]Perturbing graph:  26%|██▌       | 203/791 [20:17<57:14,  5.84s/it]Perturbing graph:  26%|██▌       | 204/791 [20:23<56:58,  5.82s/it]Perturbing graph:  26%|██▌       | 205/791 [20:29<56:41,  5.80s/it]Perturbing graph:  26%|██▌       | 206/791 [20:35<56:34,  5.80s/it]Perturbing graph:  26%|██▌       | 207/791 [20:41<56:39,  5.82s/it]Perturbing graph:  26%|██▋       | 208/791 [20:46<56:26,  5.81s/it]
+attack loss: 1.1661075353622437
+GCN loss on unlabled data: 1.355251669883728
+GCN acc on unlabled data: 0.6626666666666666
+attack loss: 1.1559375524520874
+GCN loss on unlabled data: 1.2542728185653687
+GCN acc on unlabled data: 0.6653333333333333
+attack loss: 1.11685311794281
+GCN loss on unlabled data: 1.2451850175857544
+GCN acc on unlabled data: 0.6653333333333333
+attack loss: 1.0943822860717773
+GCN loss on unlabled data: 1.2314461469650269
+GCN acc on unlabled data: 0.6746666666666666
+attack loss: 1.1205942630767822
+GCN loss on unlabled data: 1.276181697845459
+GCN acc on unlabled data: 0.6786666666666666
+attack loss: 1.1296652555465698
+GCN loss on unlabled data: 1.2209582328796387
+GCN acc on unlabled data: 0.6513333333333333
+attack loss: 1.0775107145309448
+GCN loss on unlabled data: 1.3073265552520752
+GCN acc on unlabled data: 0.6433333333333333
+attack loss: 1.155760645866394
+GCN loss on unlabled data: 1.2737828493118286
+GCN acc on unlabled data: 0.6526666666666666
+attack loss: 1.1630154848098755
+GCN loss on unlabled data: 1.2910653352737427
+GCN acc on unlabled data: 0.6593333333333333
+attack loss: 1.1478161811828613
+GCN loss on unlabled data: 1.2595347166061401
+GCN acc on unlabled data: 0.6633333333333333
+attack loss: 1.1498960256576538
+GCN loss on unlabled data: 1.2662793397903442
+GCN acc on unlabled data: 0.654
+attack loss: 1.1980425119400024
+GCN loss on unlabled data: 1.264069676399231
+GCN acc on unlabled data: 0.6433333333333333
+attack loss: 1.0947712659835815
+GCN loss on unlabled data: 1.2767086029052734
+GCN acc on unlabled data: 0.6586666666666666
+attack loss: 1.1236240863800049
+GCN loss on unlabled data: 1.332257628440857
+GCN acc on unlabled data: 0.6453333333333333
+attack loss: 1.2207105159759521
+GCN loss on unlabled data: 1.3097110986709595
+GCN acc on unlabled data: 0.6473333333333333
+attack loss: 1.1660560369491577
+GCN loss on unlabled data: 1.3035386800765991
+GCN acc on unlabled data: 0.6593333333333333
+attack loss: 1.1801122426986694
+GCN loss on unlabled data: 1.2559354305267334
+GCN acc on unlabled data: 0.6346666666666667
+attack loss: 1.1308064460754395
+GCN loss on unlabled data: 1.3656798601150513
+GCN acc on unlabled data: 0.62
+attack loss: 1.2288343906402588
+GCN loss on unlabled data: 1.3871650695800781
+GCN acc on unlabled data: 0.6313333333333333
+attack loss: 1.2596070766448975
+GCN loss on unlabled data: 1.4230871200561523
+GCN acc on unlabled data: 0.632
+attack loss: 1.2570137977600098
+GCN loss on unlabled data: 1.3289669752120972
+GCN acc on unlabled data: 0.644
+attack loss: 1.2173112630844116
+GCN loss on unlabled data: 1.30256187915802
+GCN acc on unlabled data: 0.636
+attack loss: 1.1782591342926025
+GCN loss on unlabled data: 1.454097867012024
+GCN acc on unlabled data: 0.6146666666666667
+attack loss: 1.32588791847229
+GCN loss on unlabled data: 1.4065998792648315
+GCN acc on unlabled data: 0.6086666666666667
+attack loss: 1.2941672801971436
+GCN loss on unlabled data: 1.411129117012024
+GCN acc on unlabled data: 0.6333333333333333
+attack loss: 1.3315521478652954
+GCN loss on unlabled data: 1.379177212715149
+GCN acc on unlabled data: 0.6266666666666667
+attack loss: 1.2588235139846802
+GCN loss on unlabled data: 1.4394967555999756
+GCN acc on unlabled data: 0.6286666666666667
+attack loss: 1.328012228012085
+GCN loss on unlabled data: 1.3450095653533936
+GCN acc on unlabled data: 0.6346666666666667
+attack loss: 1.1836858987808228
+GCN loss on unlabled data: 1.3575183153152466
+GCN acc on unlabled data: 0.6233333333333333
+attack loss: 1.2791941165924072
+GCN loss on unlabled data: 1.382832646369934
+GCN acc on unlabled data: 0.6273333333333333
+attack loss: 1.270951509475708
+GCN loss on unlabled data: 1.4375698566436768
+GCN acc on unlabled data: 0.606
+attack loss: 1.3657755851745605
+GCN loss on unlabled data: 1.3504760265350342
+GCN acc on unlabled data: 0.624
+attack loss: 1.1973148584365845
+GCN loss on unlabled data: 1.377786636352539
+GCN acc on unlabled data: 0.6033333333333334
+attack loss: 1.2774579524993896
+GCN loss on unlabled data: 1.3849000930786133
+GCN acc on unlabled data: 0.6173333333333333
+attack loss: 1.2781119346618652
+GCN loss on unlabled data: 1.484542965888977
+GCN acc on unlabled data: 0.5973333333333334
+attack loss: 1.369616985321045
+GCN loss on unlabled data: 1.4890649318695068
+GCN acc on unlabled data: 0.6
+attack loss: 1.3838157653808594
+GCN loss on unlabled data: 1.46351158618927
+GCN acc on unlabled data: 0.598
+attack loss: 1.3485925197601318
+GCN loss on unlabled data: 1.475351095199585
+GCN acc on unlabled data: 0.614
+attack loss: 1.3981537818908691
+GCN loss on unlabled data: 1.4357789754867554
+GCN acc on unlabled data: 0.6013333333333334
+attack loss: 1.3289175033569336
+GCN loss on unlabled data: 1.4531497955322266
+GCN acc on unlabled data: 0.596
+attack loss: 1.3645919561386108
+GCN loss on unlabled data: 1.4393986463546753
+GCN acc on unlabled data: 0.608
+attack loss: 1.3302477598190308
+GCN loss on unlabled data: 1.5153635740280151
+GCN acc on unlabled data: 0.594
+attack loss: 1.4226386547088623
+GCN loss on unlabled data: 1.4431438446044922
+GCN acc on unlabled data: 0.5893333333333334
+attack loss: 1.3670899868011475
+GCN loss on unlabled data: 1.493566870689392
+GCN acc on unlabled data: 0.5833333333333334
+attack loss: 1.408560037612915
+GCN loss on unlabled data: 1.513092279434204
+GCN acc on unlabled data: 0.6126666666666667
+attack loss: 1.4466753005981445
+GCN loss on unlabled data: 1.4190441370010376
+GCN acc on unlabled data: 0.5806666666666667
+attack loss: 1.3014616966247559
+GCN loss on unlabled data: 1.4216030836105347
+GCN acc on unlabled data: 0.608
+attack loss: 1.343443751335144
+GCN loss on unlabled data: 1.491903305053711
+GCN acc on unlabled data: 0.606
+attack loss: 1.408323884010315
+GCN loss on unlabled data: 1.5121445655822754
+GCN acc on unlabled data: 0.604
+attack loss: 1.4314727783203125
+GCN loss on unlabled data: 1.5340300798416138
+GCN acc on unlabled data: 0.566
+attack loss: 1.4144339561462402
+GCN loss on unlabled data: 1.4363417625427246
+GCN acc on unlabled data: 0.586
+attack loss: 1.3359911441802979
+GCN loss on unlabled data: 1.538877248764038
+GCN acc on unlabled data: 0.5973333333333334
+attack loss: 1.4527089595794678
+GCN loss on unlabled data: 1.4892319440841675
+GCN acc on unlabled data: 0.576
+attack loss: 1.3758811950683594
+GCN loss on unlabled data: 1.4939312934875488
+GCN acc on unlabled data: 0.58
+attack loss: 1.3902729749679565
+GCN loss on unlabled data: 1.5267231464385986
+GCN acc on unlabled data: 0.584
+attack loss: 1.3819259405136108
+GCN loss on unlabled data: 1.4091475009918213
+GCN acc on unlabled data: 0.5866666666666667
+attack loss: 1.2914681434631348
+GCN loss on unlabled data: 1.5726661682128906
+GCN acc on unlabled data: 0.586
+attack loss: 1.4774646759033203
+GCN loss on unlabled data: 1.6608275175094604
+GCN acc on unlabled data: 0.5746666666666667
+attack loss: 1.5597999095916748
+GCN loss on unlabled data: 1.5099459886550903
+GCN acc on unlabled data: 0.5806666666666667
+attack loss: 1.4021170139312744
+GCN loss on unlabled data: 1.5605535507202148
+GCN acc on unlabled data: 0.576
+attack loss: 1.4320225715637207
+GCN loss on unlabled data: 1.4744443893432617
+GCN acc on unlabled data: 0.5833333333333334
+attack loss: 1.3439993858337402
+GCN loss on unlabled data: 1.5133986473083496
+GCN acc on unlabled data: 0.5893333333333334
+attack loss: 1.4208152294158936
+GCN loss on unlabled data: 1.5247647762298584
+GCN acc on unlabled data: 0.5733333333333334
+attack loss: 1.4581798315048218
+GCN loss on unlabled data: 1.5872652530670166
+GCN acc on unlabled data: 0.5646666666666667
+attack loss: 1.5075595378875732
+GCN loss on unlabled data: 1.6052093505859375
+GCN acc on unlabled data: 0.57
+attack loss: 1.4887735843658447
+GCN loss on unlabled data: 1.603516936302185
+GCN acc on unlabled data: 0.5613333333333334
+attack loss: 1.4934898614883423
+GCN loss on unlabled data: 1.5788160562515259
+GCN acc on unlabled data: 0.5813333333333334
+attack loss: 1.4596658945083618
+GCN loss on unlabled data: 1.6006118059158325
+GCN acc on unlabled data: 0.5573333333333333
+attack loss: 1.4389723539352417
+GCN loss on unlabled data: 1.5981539487838745
+GCN acc on unlabled data: 0.5693333333333334
+attack loss: 1.504304051399231
+GCN loss on unlabled data: 1.7282823324203491Perturbing graph:  26%|██▋       | 209/791 [20:52<56:40,  5.84s/it]Perturbing graph:  27%|██▋       | 210/791 [20:58<56:40,  5.85s/it]Perturbing graph:  27%|██▋       | 211/791 [21:04<56:15,  5.82s/it]Perturbing graph:  27%|██▋       | 212/791 [21:10<55:53,  5.79s/it]Perturbing graph:  27%|██▋       | 213/791 [21:15<55:46,  5.79s/it]Perturbing graph:  27%|██▋       | 214/791 [21:21<55:53,  5.81s/it]Perturbing graph:  27%|██▋       | 215/791 [21:27<56:11,  5.85s/it]Perturbing graph:  27%|██▋       | 216/791 [21:33<56:07,  5.86s/it]Perturbing graph:  27%|██▋       | 217/791 [21:39<55:41,  5.82s/it]Perturbing graph:  28%|██▊       | 218/791 [21:45<55:26,  5.81s/it]Perturbing graph:  28%|██▊       | 219/791 [21:51<55:55,  5.87s/it]Perturbing graph:  28%|██▊       | 220/791 [21:56<55:39,  5.85s/it]Perturbing graph:  28%|██▊       | 221/791 [22:02<55:23,  5.83s/it]Perturbing graph:  28%|██▊       | 222/791 [22:08<55:14,  5.83s/it]Perturbing graph:  28%|██▊       | 223/791 [22:14<54:50,  5.79s/it]Perturbing graph:  28%|██▊       | 224/791 [22:20<55:14,  5.85s/it]Perturbing graph:  28%|██▊       | 225/791 [22:26<55:25,  5.88s/it]Perturbing graph:  29%|██▊       | 226/791 [22:31<55:07,  5.85s/it]Perturbing graph:  29%|██▊       | 227/791 [22:37<54:36,  5.81s/it]Perturbing graph:  29%|██▉       | 228/791 [22:43<54:19,  5.79s/it]Perturbing graph:  29%|██▉       | 229/791 [22:49<54:08,  5.78s/it]Perturbing graph:  29%|██▉       | 230/791 [22:54<53:52,  5.76s/it]Perturbing graph:  29%|██▉       | 231/791 [23:00<54:00,  5.79s/it]Perturbing graph:  29%|██▉       | 232/791 [23:06<54:05,  5.81s/it]Perturbing graph:  29%|██▉       | 233/791 [23:12<53:57,  5.80s/it]Perturbing graph:  30%|██▉       | 234/791 [23:18<53:39,  5.78s/it]Perturbing graph:  30%|██▉       | 235/791 [23:23<53:39,  5.79s/it]Perturbing graph:  30%|██▉       | 236/791 [23:29<53:54,  5.83s/it]Perturbing graph:  30%|██▉       | 237/791 [23:35<53:59,  5.85s/it]Perturbing graph:  30%|███       | 238/791 [23:41<53:38,  5.82s/it]Perturbing graph:  30%|███       | 239/791 [23:47<53:15,  5.79s/it]Perturbing graph:  30%|███       | 240/791 [23:52<53:07,  5.79s/it]Perturbing graph:  30%|███       | 241/791 [23:58<52:49,  5.76s/it]Perturbing graph:  31%|███       | 242/791 [24:04<52:59,  5.79s/it]Perturbing graph:  31%|███       | 243/791 [24:10<53:00,  5.80s/it]Perturbing graph:  31%|███       | 244/791 [24:16<52:56,  5.81s/it]Perturbing graph:  31%|███       | 245/791 [24:21<52:32,  5.77s/it]Perturbing graph:  31%|███       | 246/791 [24:27<52:23,  5.77s/it]Perturbing graph:  31%|███       | 247/791 [24:33<52:26,  5.78s/it]Perturbing graph:  31%|███▏      | 248/791 [24:39<52:21,  5.79s/it]Perturbing graph:  31%|███▏      | 249/791 [24:45<52:35,  5.82s/it]Perturbing graph:  32%|███▏      | 250/791 [24:50<52:26,  5.82s/it]Perturbing graph:  32%|███▏      | 251/791 [24:56<52:04,  5.79s/it]Perturbing graph:  32%|███▏      | 252/791 [25:02<51:46,  5.76s/it]Perturbing graph:  32%|███▏      | 253/791 [25:08<51:45,  5.77s/it]Perturbing graph:  32%|███▏      | 254/791 [25:13<51:31,  5.76s/it]Perturbing graph:  32%|███▏      | 255/791 [25:19<51:19,  5.75s/it]Perturbing graph:  32%|███▏      | 256/791 [25:25<51:21,  5.76s/it]Perturbing graph:  32%|███▏      | 257/791 [25:31<52:13,  5.87s/it]Perturbing graph:  33%|███▎      | 258/791 [25:37<52:02,  5.86s/it]Perturbing graph:  33%|███▎      | 259/791 [25:43<51:37,  5.82s/it]Perturbing graph:  33%|███▎      | 260/791 [25:48<51:24,  5.81s/it]Perturbing graph:  33%|███▎      | 261/791 [25:54<51:31,  5.83s/it]Perturbing graph:  33%|███▎      | 262/791 [26:00<51:24,  5.83s/it]Perturbing graph:  33%|███▎      | 263/791 [26:06<51:54,  5.90s/it]Perturbing graph:  33%|███▎      | 264/791 [26:12<51:30,  5.86s/it]Perturbing graph:  34%|███▎      | 265/791 [26:18<50:57,  5.81s/it]Perturbing graph:  34%|███▎      | 266/791 [26:23<50:51,  5.81s/it]Perturbing graph:  34%|███▍      | 267/791 [26:29<50:43,  5.81s/it]Perturbing graph:  34%|███▍      | 268/791 [26:35<50:50,  5.83s/it]Perturbing graph:  34%|███▍      | 269/791 [26:41<50:41,  5.83s/it]Perturbing graph:  34%|███▍      | 270/791 [26:47<50:27,  5.81s/it]Perturbing graph:  34%|███▍      | 271/791 [26:52<50:21,  5.81s/it]Perturbing graph:  34%|███▍      | 272/791 [26:58<49:55,  5.77s/it]Perturbing graph:  35%|███▍      | 273/791 [27:04<49:41,  5.76s/it]Perturbing graph:  35%|███▍      | 274/791 [27:10<49:42,  5.77s/it]Perturbing graph:  35%|███▍      | 275/791 [27:15<49:28,  5.75s/it]Perturbing graph:  35%|███▍      | 276/791 [27:21<49:27,  5.76s/it]Perturbing graph:  35%|███▌      | 277/791 [27:27<49:15,  5.75s/it]
+GCN acc on unlabled data: 0.5713333333333334
+attack loss: 1.6022673845291138
+GCN loss on unlabled data: 1.7496752738952637
+GCN acc on unlabled data: 0.5613333333333334
+attack loss: 1.6088404655456543
+GCN loss on unlabled data: 1.6319348812103271
+GCN acc on unlabled data: 0.562
+attack loss: 1.507108449935913
+GCN loss on unlabled data: 1.649943232536316
+GCN acc on unlabled data: 0.5646666666666667
+attack loss: 1.5124584436416626
+GCN loss on unlabled data: 1.6153788566589355
+GCN acc on unlabled data: 0.5686666666666667
+attack loss: 1.5001235008239746
+GCN loss on unlabled data: 1.7232266664505005
+GCN acc on unlabled data: 0.548
+attack loss: 1.5684850215911865
+GCN loss on unlabled data: 1.7909159660339355
+GCN acc on unlabled data: 0.5493333333333333
+attack loss: 1.643215537071228
+GCN loss on unlabled data: 1.615801215171814
+GCN acc on unlabled data: 0.5673333333333334
+attack loss: 1.511300802230835
+GCN loss on unlabled data: 1.647694706916809
+GCN acc on unlabled data: 0.5626666666666666
+attack loss: 1.5400904417037964
+GCN loss on unlabled data: 1.6467503309249878
+GCN acc on unlabled data: 0.5553333333333333
+attack loss: 1.557052731513977
+GCN loss on unlabled data: 1.653418779373169
+GCN acc on unlabled data: 0.5606666666666666
+attack loss: 1.5838369131088257
+GCN loss on unlabled data: 1.70575749874115
+GCN acc on unlabled data: 0.554
+attack loss: 1.6048970222473145
+GCN loss on unlabled data: 1.6950992345809937
+GCN acc on unlabled data: 0.552
+attack loss: 1.589848518371582
+GCN loss on unlabled data: 1.5670260190963745
+GCN acc on unlabled data: 0.5693333333333334
+attack loss: 1.456483244895935
+GCN loss on unlabled data: 1.62199068069458
+GCN acc on unlabled data: 0.558
+attack loss: 1.5643168687820435
+GCN loss on unlabled data: 1.6801890134811401
+GCN acc on unlabled data: 0.554
+attack loss: 1.5706146955490112
+GCN loss on unlabled data: 1.7150031328201294
+GCN acc on unlabled data: 0.5506666666666666
+attack loss: 1.6010295152664185
+GCN loss on unlabled data: 1.7453498840332031
+GCN acc on unlabled data: 0.5686666666666667
+attack loss: 1.671673059463501
+GCN loss on unlabled data: 1.6992467641830444
+GCN acc on unlabled data: 0.5553333333333333
+attack loss: 1.5977174043655396
+GCN loss on unlabled data: 1.6083096265792847
+GCN acc on unlabled data: 0.5633333333333334
+attack loss: 1.5326992273330688
+GCN loss on unlabled data: 1.6444995403289795
+GCN acc on unlabled data: 0.5513333333333333
+attack loss: 1.563639521598816
+GCN loss on unlabled data: 1.7107998132705688
+GCN acc on unlabled data: 0.5466666666666666
+attack loss: 1.6034985780715942
+GCN loss on unlabled data: 1.7972426414489746
+GCN acc on unlabled data: 0.5373333333333333
+attack loss: 1.7396023273468018
+GCN loss on unlabled data: 1.7268399000167847
+GCN acc on unlabled data: 0.5506666666666666
+attack loss: 1.611152172088623
+GCN loss on unlabled data: 1.7866305112838745
+GCN acc on unlabled data: 0.544
+attack loss: 1.6965315341949463
+GCN loss on unlabled data: 1.81248939037323
+GCN acc on unlabled data: 0.5446666666666666
+attack loss: 1.7645272016525269
+GCN loss on unlabled data: 1.6976852416992188
+GCN acc on unlabled data: 0.5526666666666666
+attack loss: 1.615877389907837
+GCN loss on unlabled data: 1.7898390293121338
+GCN acc on unlabled data: 0.5353333333333333
+attack loss: 1.6906110048294067
+GCN loss on unlabled data: 1.68639075756073
+GCN acc on unlabled data: 0.5526666666666666
+attack loss: 1.6079528331756592
+GCN loss on unlabled data: 1.745045781135559
+GCN acc on unlabled data: 0.548
+attack loss: 1.6729848384857178
+GCN loss on unlabled data: 1.7846778631210327
+GCN acc on unlabled data: 0.5466666666666666
+attack loss: 1.706404447555542
+GCN loss on unlabled data: 1.6850742101669312
+GCN acc on unlabled data: 0.5446666666666666
+attack loss: 1.5903209447860718
+GCN loss on unlabled data: 1.773065209388733
+GCN acc on unlabled data: 0.5546666666666666
+attack loss: 1.7252408266067505
+GCN loss on unlabled data: 1.8248897790908813
+GCN acc on unlabled data: 0.5413333333333333
+attack loss: 1.7266321182250977
+GCN loss on unlabled data: 1.842755675315857
+GCN acc on unlabled data: 0.5346666666666666
+attack loss: 1.7744145393371582
+GCN loss on unlabled data: 1.7863855361938477
+GCN acc on unlabled data: 0.544
+attack loss: 1.6700506210327148
+GCN loss on unlabled data: 1.8684470653533936
+GCN acc on unlabled data: 0.548
+attack loss: 1.8075112104415894
+GCN loss on unlabled data: 1.8129088878631592
+GCN acc on unlabled data: 0.5533333333333333
+attack loss: 1.6750003099441528
+GCN loss on unlabled data: 1.8902662992477417
+GCN acc on unlabled data: 0.5513333333333333
+attack loss: 1.831033706665039
+GCN loss on unlabled data: 1.7749816179275513
+GCN acc on unlabled data: 0.5333333333333333
+attack loss: 1.6754176616668701
+GCN loss on unlabled data: 1.9342246055603027
+GCN acc on unlabled data: 0.5446666666666666
+attack loss: 1.8531174659729004
+GCN loss on unlabled data: 1.755813479423523
+GCN acc on unlabled data: 0.548
+attack loss: 1.622783899307251
+GCN loss on unlabled data: 1.7779457569122314
+GCN acc on unlabled data: 0.5433333333333333
+attack loss: 1.6742005348205566
+GCN loss on unlabled data: 1.8416472673416138
+GCN acc on unlabled data: 0.5473333333333333
+attack loss: 1.724942922592163
+GCN loss on unlabled data: 1.9113001823425293
+GCN acc on unlabled data: 0.5333333333333333
+attack loss: 1.8462247848510742
+GCN loss on unlabled data: 2.008984327316284
+GCN acc on unlabled data: 0.5226666666666666
+attack loss: 1.9101579189300537
+GCN loss on unlabled data: 1.9030531644821167
+GCN acc on unlabled data: 0.5393333333333333
+attack loss: 1.8216489553451538
+GCN loss on unlabled data: 1.8220245838165283
+GCN acc on unlabled data: 0.5566666666666666
+attack loss: 1.7569894790649414
+GCN loss on unlabled data: 1.8514301776885986
+GCN acc on unlabled data: 0.558
+attack loss: 1.7962177991867065
+GCN loss on unlabled data: 1.9333508014678955
+GCN acc on unlabled data: 0.5413333333333333
+attack loss: 1.8729890584945679
+GCN loss on unlabled data: 1.835942029953003
+GCN acc on unlabled data: 0.5366666666666666
+attack loss: 1.7854877710342407
+GCN loss on unlabled data: 1.9656999111175537
+GCN acc on unlabled data: 0.5173333333333333
+attack loss: 1.8883302211761475
+GCN loss on unlabled data: 1.9375125169754028
+GCN acc on unlabled data: 0.5226666666666666
+attack loss: 1.8582757711410522
+GCN loss on unlabled data: 1.897987961769104
+GCN acc on unlabled data: 0.5306666666666666
+attack loss: 1.7724533081054688
+GCN loss on unlabled data: 1.8739451169967651
+GCN acc on unlabled data: 0.5393333333333333
+attack loss: 1.7786798477172852
+GCN loss on unlabled data: 1.8981468677520752
+GCN acc on unlabled data: 0.5386666666666666
+attack loss: 1.784860372543335
+GCN loss on unlabled data: 1.9047770500183105
+GCN acc on unlabled data: 0.524
+attack loss: 1.8555468320846558
+GCN loss on unlabled data: 2.021421432495117
+GCN acc on unlabled data: 0.5453333333333333
+attack loss: 1.9378222227096558
+GCN loss on unlabled data: 1.8094109296798706
+GCN acc on unlabled data: 0.5286666666666666
+attack loss: 1.6785151958465576
+GCN loss on unlabled data: 1.8828872442245483
+GCN acc on unlabled data: 0.5366666666666666
+attack loss: 1.7681244611740112
+GCN loss on unlabled data: 1.9209671020507812
+GCN acc on unlabled data: 0.5273333333333333
+attack loss: 1.8346048593521118
+GCN loss on unlabled data: 1.8810443878173828
+GCN acc on unlabled data: 0.5206666666666667
+attack loss: 1.7984410524368286
+GCN loss on unlabled data: 1.99555504322052
+GCN acc on unlabled data: 0.53
+attack loss: 1.8784816265106201
+GCN loss on unlabled data: 1.85640287399292
+GCN acc on unlabled data: 0.5273333333333333
+attack loss: 1.7130790948867798
+GCN loss on unlabled data: 1.9740707874298096
+GCN acc on unlabled data: 0.5406666666666666
+attack loss: 1.9402482509613037
+GCN loss on unlabled data: 2.0423195362091064
+GCN acc on unlabled data: 0.5273333333333333
+attack loss: 1.9959179162979126
+GCN loss on unlabled data: 1.929179310798645
+GCN acc on unlabled data: 0.524
+attack loss: 1.8283330202102661
+GCN loss on unlabled data: 1.91605806350708
+GCN acc on unlabled data: 0.5326666666666666
+attack loss: 1.8053843975067139
+GCN loss on unlabled data: 1.9451053142547607
+GCN acc on unlabled data: 0.522
+attack loss: 1.8172599077224731
+GCN loss on unlabled data: 1.9789066314697266Perturbing graph:  35%|███▌      | 278/791 [27:33<49:48,  5.83s/it]Perturbing graph:  35%|███▌      | 279/791 [27:39<49:39,  5.82s/it]Perturbing graph:  35%|███▌      | 280/791 [27:44<49:28,  5.81s/it]Perturbing graph:  36%|███▌      | 281/791 [27:50<49:07,  5.78s/it]Perturbing graph:  36%|███▌      | 282/791 [27:56<49:02,  5.78s/it]Perturbing graph:  36%|███▌      | 283/791 [28:02<48:45,  5.76s/it]Perturbing graph:  36%|███▌      | 284/791 [28:07<48:43,  5.77s/it]Perturbing graph:  36%|███▌      | 285/791 [28:13<48:51,  5.79s/it]Perturbing graph:  36%|███▌      | 286/791 [28:19<49:03,  5.83s/it]Perturbing graph:  36%|███▋      | 287/791 [28:25<48:48,  5.81s/it]Perturbing graph:  36%|███▋      | 288/791 [28:31<48:37,  5.80s/it]Perturbing graph:  37%|███▋      | 289/791 [28:36<48:19,  5.78s/it]Perturbing graph:  37%|███▋      | 290/791 [28:42<48:02,  5.75s/it]Perturbing graph:  37%|███▋      | 291/791 [28:48<47:49,  5.74s/it]Perturbing graph:  37%|███▋      | 292/791 [28:54<47:40,  5.73s/it]Perturbing graph:  37%|███▋      | 293/791 [28:59<47:49,  5.76s/it]Perturbing graph:  37%|███▋      | 294/791 [29:05<47:58,  5.79s/it]Perturbing graph:  37%|███▋      | 295/791 [29:11<47:39,  5.77s/it]Perturbing graph:  37%|███▋      | 296/791 [29:17<47:25,  5.75s/it]Perturbing graph:  38%|███▊      | 297/791 [29:22<47:17,  5.74s/it]Perturbing graph:  38%|███▊      | 298/791 [29:28<47:12,  5.74s/it]Perturbing graph:  38%|███▊      | 299/791 [29:34<47:40,  5.81s/it]Perturbing graph:  38%|███▊      | 300/791 [29:40<47:33,  5.81s/it]Perturbing graph:  38%|███▊      | 301/791 [29:46<47:14,  5.78s/it]Perturbing graph:  38%|███▊      | 302/791 [29:51<46:55,  5.76s/it]Perturbing graph:  38%|███▊      | 303/791 [29:57<46:47,  5.75s/it]Perturbing graph:  38%|███▊      | 304/791 [30:03<46:36,  5.74s/it]Perturbing graph:  39%|███▊      | 305/791 [30:09<46:44,  5.77s/it]Perturbing graph:  39%|███▊      | 306/791 [30:14<46:42,  5.78s/it]Perturbing graph:  39%|███▉      | 307/791 [30:20<46:28,  5.76s/it]Perturbing graph:  39%|███▉      | 308/791 [30:26<46:13,  5.74s/it]Perturbing graph:  39%|███▉      | 309/791 [30:32<46:08,  5.74s/it]Perturbing graph:  39%|███▉      | 310/791 [30:37<45:55,  5.73s/it]Perturbing graph:  39%|███▉      | 311/791 [30:43<45:56,  5.74s/it]Perturbing graph:  39%|███▉      | 312/791 [30:49<45:48,  5.74s/it]Perturbing graph:  40%|███▉      | 313/791 [30:55<45:50,  5.75s/it]Perturbing graph:  40%|███▉      | 314/791 [31:00<45:30,  5.72s/it]Perturbing graph:  40%|███▉      | 315/791 [31:07<46:42,  5.89s/it]Perturbing graph:  40%|███▉      | 316/791 [31:12<46:38,  5.89s/it]Perturbing graph:  40%|████      | 317/791 [31:18<46:13,  5.85s/it]Perturbing graph:  40%|████      | 318/791 [31:24<45:47,  5.81s/it]Perturbing graph:  40%|████      | 319/791 [31:30<45:37,  5.80s/it]Perturbing graph:  40%|████      | 320/791 [31:35<45:20,  5.78s/it]Perturbing graph:  41%|████      | 321/791 [31:41<45:08,  5.76s/it]Perturbing graph:  41%|████      | 322/791 [31:47<44:57,  5.75s/it]Perturbing graph:  41%|████      | 323/791 [31:53<45:27,  5.83s/it]Perturbing graph:  41%|████      | 324/791 [31:59<45:09,  5.80s/it]Perturbing graph:  41%|████      | 325/791 [32:04<44:52,  5.78s/it]Perturbing graph:  41%|████      | 326/791 [32:10<44:41,  5.77s/it]Perturbing graph:  41%|████▏     | 327/791 [32:16<44:31,  5.76s/it]Perturbing graph:  41%|████▏     | 328/791 [32:22<44:32,  5.77s/it]Perturbing graph:  42%|████▏     | 329/791 [32:27<44:20,  5.76s/it]Perturbing graph:  42%|████▏     | 330/791 [32:33<44:31,  5.79s/it]Perturbing graph:  42%|████▏     | 331/791 [32:39<44:35,  5.82s/it]Perturbing graph:  42%|████▏     | 332/791 [32:45<44:30,  5.82s/it]Perturbing graph:  42%|████▏     | 333/791 [32:51<44:10,  5.79s/it]Perturbing graph:  42%|████▏     | 334/791 [32:56<44:03,  5.78s/it]Perturbing graph:  42%|████▏     | 335/791 [33:02<43:44,  5.76s/it]Perturbing graph:  42%|████▏     | 336/791 [33:08<43:34,  5.75s/it]Perturbing graph:  43%|████▎     | 337/791 [33:14<43:24,  5.74s/it]Perturbing graph:  43%|████▎     | 338/791 [33:19<43:19,  5.74s/it]Perturbing graph:  43%|████▎     | 339/791 [33:25<43:30,  5.78s/it]Perturbing graph:  43%|████▎     | 340/791 [33:31<43:32,  5.79s/it]Perturbing graph:  43%|████▎     | 341/791 [33:37<43:15,  5.77s/it]Perturbing graph:  43%|████▎     | 342/791 [33:42<43:02,  5.75s/it]Perturbing graph:  43%|████▎     | 343/791 [33:48<42:49,  5.74s/it]Perturbing graph:  43%|████▎     | 344/791 [33:54<42:41,  5.73s/it]Perturbing graph:  44%|████▎     | 345/791 [34:00<42:43,  5.75s/it]Perturbing graph:  44%|████▎     | 346/791 [34:05<42:30,  5.73s/it]
+GCN acc on unlabled data: 0.5366666666666666
+attack loss: 1.9138556718826294
+GCN loss on unlabled data: 1.9751025438308716
+GCN acc on unlabled data: 0.538
+attack loss: 1.9048043489456177
+GCN loss on unlabled data: 1.9839078187942505
+GCN acc on unlabled data: 0.522
+attack loss: 1.8878300189971924
+GCN loss on unlabled data: 1.9782010316848755
+GCN acc on unlabled data: 0.5286666666666666
+attack loss: 1.9088650941848755
+GCN loss on unlabled data: 1.9427155256271362
+GCN acc on unlabled data: 0.5206666666666667
+attack loss: 1.8785769939422607
+GCN loss on unlabled data: 1.9167592525482178
+GCN acc on unlabled data: 0.5353333333333333
+attack loss: 1.8786355257034302
+GCN loss on unlabled data: 2.0214905738830566
+GCN acc on unlabled data: 0.5246666666666666
+attack loss: 1.9366732835769653
+GCN loss on unlabled data: 2.0629234313964844
+GCN acc on unlabled data: 0.5166666666666667
+attack loss: 2.02060604095459
+GCN loss on unlabled data: 2.0518457889556885
+GCN acc on unlabled data: 0.5326666666666666
+attack loss: 1.9856526851654053
+GCN loss on unlabled data: 2.0857207775115967
+GCN acc on unlabled data: 0.5286666666666666
+attack loss: 2.0494048595428467
+GCN loss on unlabled data: 2.0845515727996826
+GCN acc on unlabled data: 0.5073333333333333
+attack loss: 1.970311164855957
+GCN loss on unlabled data: 1.9922943115234375
+GCN acc on unlabled data: 0.5173333333333333
+attack loss: 1.9174226522445679
+GCN loss on unlabled data: 1.841317892074585
+GCN acc on unlabled data: 0.5226666666666666
+attack loss: 1.7771979570388794
+GCN loss on unlabled data: 1.9311257600784302
+GCN acc on unlabled data: 0.524
+attack loss: 1.832851767539978
+GCN loss on unlabled data: 2.0124704837799072
+GCN acc on unlabled data: 0.512
+attack loss: 1.9192451238632202
+GCN loss on unlabled data: 1.9175714254379272
+GCN acc on unlabled data: 0.518
+attack loss: 1.8228152990341187
+GCN loss on unlabled data: 1.9644702672958374
+GCN acc on unlabled data: 0.5173333333333333
+attack loss: 1.8868457078933716
+GCN loss on unlabled data: 2.077054738998413
+GCN acc on unlabled data: 0.5126666666666667
+attack loss: 1.9528212547302246
+GCN loss on unlabled data: 2.017674684524536
+GCN acc on unlabled data: 0.5286666666666666
+attack loss: 1.9639573097229004
+GCN loss on unlabled data: 2.0006821155548096
+GCN acc on unlabled data: 0.5233333333333333
+attack loss: 1.9286267757415771
+GCN loss on unlabled data: 2.126749038696289
+GCN acc on unlabled data: 0.5213333333333333
+attack loss: 2.085177183151245
+GCN loss on unlabled data: 1.956833839416504
+GCN acc on unlabled data: 0.5113333333333333
+attack loss: 1.8578546047210693
+GCN loss on unlabled data: 2.165938138961792
+GCN acc on unlabled data: 0.506
+attack loss: 2.0746521949768066
+GCN loss on unlabled data: 2.00990891456604
+GCN acc on unlabled data: 0.5126666666666667
+attack loss: 1.9544886350631714
+GCN loss on unlabled data: 2.0191314220428467
+GCN acc on unlabled data: 0.528
+attack loss: 1.9690417051315308
+GCN loss on unlabled data: 2.050435781478882
+GCN acc on unlabled data: 0.516
+attack loss: 1.9685527086257935
+GCN loss on unlabled data: 2.0138142108917236
+GCN acc on unlabled data: 0.5146666666666667
+attack loss: 1.917946457862854
+GCN loss on unlabled data: 1.9973284006118774
+GCN acc on unlabled data: 0.53
+attack loss: 1.9453562498092651
+GCN loss on unlabled data: 2.055349826812744
+GCN acc on unlabled data: 0.5173333333333333
+attack loss: 2.0192434787750244
+GCN loss on unlabled data: 1.893784999847412
+GCN acc on unlabled data: 0.5293333333333333
+attack loss: 1.8512719869613647
+GCN loss on unlabled data: 2.2596447467803955
+GCN acc on unlabled data: 0.49666666666666665
+attack loss: 2.185340642929077
+GCN loss on unlabled data: 1.9985381364822388
+GCN acc on unlabled data: 0.522
+attack loss: 1.8861147165298462
+GCN loss on unlabled data: 2.1521854400634766
+GCN acc on unlabled data: 0.49933333333333335
+attack loss: 2.1005544662475586
+GCN loss on unlabled data: 2.107194423675537
+GCN acc on unlabled data: 0.52
+attack loss: 2.0837271213531494
+GCN loss on unlabled data: 2.2443511486053467
+GCN acc on unlabled data: 0.5153333333333333
+attack loss: 2.161518096923828
+GCN loss on unlabled data: 2.2513270378112793
+GCN acc on unlabled data: 0.5206666666666667
+attack loss: 2.2258946895599365
+GCN loss on unlabled data: 2.1137948036193848
+GCN acc on unlabled data: 0.5133333333333333
+attack loss: 2.0125749111175537
+GCN loss on unlabled data: 2.198340892791748
+GCN acc on unlabled data: 0.5146666666666667
+attack loss: 2.1515188217163086
+GCN loss on unlabled data: 2.1093409061431885
+GCN acc on unlabled data: 0.5146666666666667
+attack loss: 2.0174660682678223
+GCN loss on unlabled data: 2.2602603435516357
+GCN acc on unlabled data: 0.5106666666666667
+attack loss: 2.1871557235717773
+GCN loss on unlabled data: 2.0757265090942383
+GCN acc on unlabled data: 0.49666666666666665
+attack loss: 1.996914267539978
+GCN loss on unlabled data: 2.1742098331451416
+GCN acc on unlabled data: 0.518
+attack loss: 2.1376521587371826
+GCN loss on unlabled data: 2.1076014041900635
+GCN acc on unlabled data: 0.5326666666666666
+attack loss: 2.059398651123047
+GCN loss on unlabled data: 2.1455910205841064
+GCN acc on unlabled data: 0.506
+attack loss: 2.112231731414795
+GCN loss on unlabled data: 2.1220552921295166
+GCN acc on unlabled data: 0.5226666666666666
+attack loss: 2.018327474594116
+GCN loss on unlabled data: 2.2179856300354004
+GCN acc on unlabled data: 0.5126666666666667
+attack loss: 2.1548259258270264
+GCN loss on unlabled data: 1.9427604675292969
+GCN acc on unlabled data: 0.5273333333333333
+attack loss: 1.8653150796890259
+GCN loss on unlabled data: 2.2016446590423584
+GCN acc on unlabled data: 0.5173333333333333
+attack loss: 2.164729118347168
+GCN loss on unlabled data: 2.1620020866394043
+GCN acc on unlabled data: 0.516
+attack loss: 2.145366668701172
+GCN loss on unlabled data: 2.214210271835327
+GCN acc on unlabled data: 0.5146666666666667
+attack loss: 2.0906219482421875
+GCN loss on unlabled data: 2.082632541656494
+GCN acc on unlabled data: 0.5113333333333333
+attack loss: 2.0062713623046875
+GCN loss on unlabled data: 2.194711208343506
+GCN acc on unlabled data: 0.5086666666666667
+attack loss: 2.1137895584106445
+GCN loss on unlabled data: 2.1188735961914062
+GCN acc on unlabled data: 0.518
+attack loss: 2.1066715717315674
+GCN loss on unlabled data: 2.248661518096924
+GCN acc on unlabled data: 0.5046666666666667
+attack loss: 2.1593828201293945
+GCN loss on unlabled data: 2.158755302429199
+GCN acc on unlabled data: 0.5093333333333333
+attack loss: 2.1528918743133545
+GCN loss on unlabled data: 2.317647933959961
+GCN acc on unlabled data: 0.48333333333333334
+attack loss: 2.2278382778167725
+GCN loss on unlabled data: 2.2033534049987793
+GCN acc on unlabled data: 0.49933333333333335
+attack loss: 2.1556777954101562
+GCN loss on unlabled data: 2.2766597270965576
+GCN acc on unlabled data: 0.5106666666666667
+attack loss: 2.1930060386657715
+GCN loss on unlabled data: 2.115231990814209
+GCN acc on unlabled data: 0.52
+attack loss: 2.0553858280181885
+GCN loss on unlabled data: 2.2152764797210693
+GCN acc on unlabled data: 0.502
+attack loss: 2.1634955406188965
+GCN loss on unlabled data: 2.2261149883270264
+GCN acc on unlabled data: 0.5073333333333333
+attack loss: 2.1366963386535645
+GCN loss on unlabled data: 2.1856818199157715
+GCN acc on unlabled data: 0.5066666666666667
+attack loss: 2.1393184661865234
+GCN loss on unlabled data: 2.2205283641815186
+GCN acc on unlabled data: 0.504
+attack loss: 2.1595888137817383
+GCN loss on unlabled data: 2.1465344429016113
+GCN acc on unlabled data: 0.518
+attack loss: 2.0953361988067627
+GCN loss on unlabled data: 2.2521369457244873
+GCN acc on unlabled data: 0.502
+attack loss: 2.207141637802124
+GCN loss on unlabled data: 2.147184133529663
+GCN acc on unlabled data: 0.5166666666666667
+attack loss: 2.0837788581848145
+GCN loss on unlabled data: 2.281924247741699
+GCN acc on unlabled data: 0.49666666666666665
+attack loss: 2.246856212615967
+GCN loss on unlabled data: 2.2658774852752686
+GCN acc on unlabled data: 0.5133333333333333
+attack loss: 2.233816146850586
+GCN loss on unlabled data: 2.150928497314453
+GCN acc on unlabled data: 0.5066666666666667
+attack loss: 2.085777759552002
+GCN loss on unlabled data: 2.276482105255127
+GCN acc on unlabled data: 0.5Perturbing graph:  44%|████▍     | 347/791 [34:11<42:22,  5.73s/it]Perturbing graph:  44%|████▍     | 348/791 [34:17<42:16,  5.73s/it]Perturbing graph:  44%|████▍     | 349/791 [34:23<42:31,  5.77s/it]Perturbing graph:  44%|████▍     | 350/791 [34:28<42:29,  5.78s/it]Perturbing graph:  44%|████▍     | 351/791 [34:34<42:12,  5.75s/it]Perturbing graph:  45%|████▍     | 352/791 [34:40<42:05,  5.75s/it]Perturbing graph:  45%|████▍     | 353/791 [34:46<41:59,  5.75s/it]Perturbing graph:  45%|████▍     | 354/791 [34:51<41:49,  5.74s/it]Perturbing graph:  45%|████▍     | 355/791 [34:57<41:56,  5.77s/it]Perturbing graph:  45%|████▌     | 356/791 [35:03<42:04,  5.80s/it]Perturbing graph:  45%|████▌     | 357/791 [35:09<41:46,  5.78s/it]Perturbing graph:  45%|████▌     | 358/791 [35:15<41:40,  5.78s/it]Perturbing graph:  45%|████▌     | 359/791 [35:20<41:27,  5.76s/it]Perturbing graph:  46%|████▌     | 360/791 [35:26<41:22,  5.76s/it]Perturbing graph:  46%|████▌     | 361/791 [35:32<41:10,  5.74s/it]Perturbing graph:  46%|████▌     | 362/791 [35:37<40:55,  5.72s/it]Perturbing graph:  46%|████▌     | 363/791 [35:43<40:50,  5.73s/it]Perturbing graph:  46%|████▌     | 364/791 [35:49<40:49,  5.74s/it]Perturbing graph:  46%|████▌     | 365/791 [35:55<41:04,  5.78s/it]Perturbing graph:  46%|████▋     | 366/791 [36:01<40:51,  5.77s/it]Perturbing graph:  46%|████▋     | 367/791 [36:06<40:39,  5.75s/it]Perturbing graph:  47%|████▋     | 368/791 [36:12<40:29,  5.74s/it]Perturbing graph:  47%|████▋     | 369/791 [36:18<40:23,  5.74s/it]Perturbing graph:  47%|████▋     | 370/791 [36:23<40:14,  5.74s/it]Perturbing graph:  47%|████▋     | 371/791 [36:29<40:14,  5.75s/it]Perturbing graph:  47%|████▋     | 372/791 [36:35<40:13,  5.76s/it]Perturbing graph:  47%|████▋     | 373/791 [36:41<40:07,  5.76s/it]Perturbing graph:  47%|████▋     | 374/791 [36:47<40:23,  5.81s/it]Perturbing graph:  47%|████▋     | 375/791 [36:52<40:11,  5.80s/it]Perturbing graph:  48%|████▊     | 376/791 [36:58<40:07,  5.80s/it]Perturbing graph:  48%|████▊     | 377/791 [37:04<39:59,  5.80s/it]Perturbing graph:  48%|████▊     | 378/791 [37:10<39:54,  5.80s/it]Perturbing graph:  48%|████▊     | 379/791 [37:16<39:38,  5.77s/it]Perturbing graph:  48%|████▊     | 380/791 [37:21<39:25,  5.76s/it]Perturbing graph:  48%|████▊     | 381/791 [37:27<39:24,  5.77s/it]Perturbing graph:  48%|████▊     | 382/791 [37:33<39:40,  5.82s/it]Perturbing graph:  48%|████▊     | 383/791 [37:39<39:30,  5.81s/it]Perturbing graph:  49%|████▊     | 384/791 [37:44<39:10,  5.78s/it]Perturbing graph:  49%|████▊     | 385/791 [37:50<39:00,  5.77s/it]Perturbing graph:  49%|████▉     | 386/791 [37:56<38:50,  5.75s/it]Perturbing graph:  49%|████▉     | 387/791 [38:02<38:37,  5.74s/it]Perturbing graph:  49%|████▉     | 388/791 [38:07<38:35,  5.75s/it]Perturbing graph:  49%|████▉     | 389/791 [38:13<38:53,  5.80s/it]Perturbing graph:  49%|████▉     | 390/791 [38:19<38:44,  5.80s/it]Perturbing graph:  49%|████▉     | 391/791 [38:25<38:34,  5.79s/it]Perturbing graph:  50%|████▉     | 392/791 [38:31<38:21,  5.77s/it]Perturbing graph:  50%|████▉     | 393/791 [38:36<38:05,  5.74s/it]Perturbing graph:  50%|████▉     | 394/791 [38:42<37:59,  5.74s/it]Perturbing graph:  50%|████▉     | 395/791 [38:48<37:54,  5.74s/it]Perturbing graph:  50%|█████     | 396/791 [38:54<38:14,  5.81s/it]Perturbing graph:  50%|█████     | 397/791 [39:00<38:06,  5.80s/it]Perturbing graph:  50%|█████     | 398/791 [39:05<38:00,  5.80s/it]Perturbing graph:  50%|█████     | 399/791 [39:11<37:45,  5.78s/it]Perturbing graph:  51%|█████     | 400/791 [39:17<37:40,  5.78s/it]Perturbing graph:  51%|█████     | 401/791 [39:23<37:27,  5.76s/it]Perturbing graph:  51%|█████     | 402/791 [39:28<37:26,  5.78s/it]Perturbing graph:  51%|█████     | 403/791 [39:34<37:17,  5.77s/it]Perturbing graph:  51%|█████     | 404/791 [39:40<37:30,  5.82s/it]Perturbing graph:  51%|█████     | 405/791 [39:46<37:30,  5.83s/it]Perturbing graph:  51%|█████▏    | 406/791 [39:52<37:22,  5.83s/it]Perturbing graph:  51%|█████▏    | 407/791 [39:58<37:10,  5.81s/it]Perturbing graph:  52%|█████▏    | 408/791 [40:03<37:04,  5.81s/it]Perturbing graph:  52%|█████▏    | 409/791 [40:09<36:50,  5.79s/it]Perturbing graph:  52%|█████▏    | 410/791 [40:15<36:49,  5.80s/it]Perturbing graph:  52%|█████▏    | 411/791 [40:21<36:36,  5.78s/it]Perturbing graph:  52%|█████▏    | 412/791 [40:26<36:38,  5.80s/it]Perturbing graph:  52%|█████▏    | 413/791 [40:32<36:25,  5.78s/it]Perturbing graph:  52%|█████▏    | 414/791 [40:38<36:43,  5.85s/it]Perturbing graph:  52%|█████▏    | 415/791 [40:44<36:29,  5.82s/it]Perturbing graph:  53%|█████▎    | 416/791 [40:50<36:10,  5.79s/it]
+attack loss: 2.211317777633667
+GCN loss on unlabled data: 2.291888952255249
+GCN acc on unlabled data: 0.49866666666666665
+attack loss: 2.241651773452759
+GCN loss on unlabled data: 2.1993720531463623
+GCN acc on unlabled data: 0.5053333333333333
+attack loss: 2.1380562782287598
+GCN loss on unlabled data: 2.2600173950195312
+GCN acc on unlabled data: 0.49
+attack loss: 2.1856558322906494
+GCN loss on unlabled data: 2.200742244720459
+GCN acc on unlabled data: 0.5026666666666667
+attack loss: 2.1328420639038086
+GCN loss on unlabled data: 2.2793660163879395
+GCN acc on unlabled data: 0.498
+attack loss: 2.226689577102661
+GCN loss on unlabled data: 2.3077056407928467
+GCN acc on unlabled data: 0.502
+attack loss: 2.2304913997650146
+GCN loss on unlabled data: 2.254945993423462
+GCN acc on unlabled data: 0.5026666666666667
+attack loss: 2.2008450031280518
+GCN loss on unlabled data: 2.380455732345581
+GCN acc on unlabled data: 0.47733333333333333
+attack loss: 2.295900344848633
+GCN loss on unlabled data: 2.4394643306732178
+GCN acc on unlabled data: 0.4866666666666667
+attack loss: 2.368687391281128
+GCN loss on unlabled data: 2.1074483394622803
+GCN acc on unlabled data: 0.49333333333333335
+attack loss: 2.0490503311157227
+GCN loss on unlabled data: 2.191147565841675
+GCN acc on unlabled data: 0.494
+attack loss: 2.159905195236206
+GCN loss on unlabled data: 2.4027976989746094
+GCN acc on unlabled data: 0.49466666666666664
+attack loss: 2.3625993728637695
+GCN loss on unlabled data: 2.394165515899658
+GCN acc on unlabled data: 0.5
+attack loss: 2.3148207664489746
+GCN loss on unlabled data: 2.304365634918213
+GCN acc on unlabled data: 0.482
+attack loss: 2.24875545501709
+GCN loss on unlabled data: 2.343233823776245
+GCN acc on unlabled data: 0.5126666666666667
+attack loss: 2.3048903942108154
+GCN loss on unlabled data: 2.4442665576934814
+GCN acc on unlabled data: 0.498
+attack loss: 2.433431386947632
+GCN loss on unlabled data: 2.3426592350006104
+GCN acc on unlabled data: 0.502
+attack loss: 2.3302948474884033
+GCN loss on unlabled data: 2.432065963745117
+GCN acc on unlabled data: 0.5046666666666667
+attack loss: 2.391439199447632
+GCN loss on unlabled data: 2.40647029876709
+GCN acc on unlabled data: 0.49
+attack loss: 2.328953981399536
+GCN loss on unlabled data: 2.4368629455566406
+GCN acc on unlabled data: 0.49066666666666664
+attack loss: 2.3627662658691406
+GCN loss on unlabled data: 2.488079309463501
+GCN acc on unlabled data: 0.49266666666666664
+attack loss: 2.457394599914551
+GCN loss on unlabled data: 2.3093247413635254
+GCN acc on unlabled data: 0.48933333333333334
+attack loss: 2.237567186355591
+GCN loss on unlabled data: 2.3280091285705566
+GCN acc on unlabled data: 0.48533333333333334
+attack loss: 2.2940542697906494
+GCN loss on unlabled data: 2.4978554248809814
+GCN acc on unlabled data: 0.5006666666666667
+attack loss: 2.4636495113372803
+GCN loss on unlabled data: 2.422938823699951
+GCN acc on unlabled data: 0.49266666666666664
+attack loss: 2.361236333847046
+GCN loss on unlabled data: 2.3829896450042725
+GCN acc on unlabled data: 0.5093333333333333
+attack loss: 2.3211026191711426
+GCN loss on unlabled data: 2.299443244934082
+GCN acc on unlabled data: 0.5026666666666667
+attack loss: 2.2632391452789307
+GCN loss on unlabled data: 2.160625696182251
+GCN acc on unlabled data: 0.5153333333333333
+attack loss: 2.116603374481201
+GCN loss on unlabled data: 2.2980401515960693
+GCN acc on unlabled data: 0.5066666666666667
+attack loss: 2.238696813583374
+GCN loss on unlabled data: 2.5066933631896973
+GCN acc on unlabled data: 0.494
+attack loss: 2.4952175617218018
+GCN loss on unlabled data: 2.477123737335205
+GCN acc on unlabled data: 0.49466666666666664
+attack loss: 2.4428818225860596
+GCN loss on unlabled data: 2.4672162532806396
+GCN acc on unlabled data: 0.49733333333333335
+attack loss: 2.4705371856689453
+GCN loss on unlabled data: 2.4985263347625732
+GCN acc on unlabled data: 0.484
+attack loss: 2.4287168979644775
+GCN loss on unlabled data: 2.421624183654785
+GCN acc on unlabled data: 0.49
+attack loss: 2.3931849002838135
+GCN loss on unlabled data: 2.2022669315338135
+GCN acc on unlabled data: 0.48733333333333334
+attack loss: 2.127110481262207
+GCN loss on unlabled data: 2.402400255203247
+GCN acc on unlabled data: 0.49066666666666664
+attack loss: 2.3684115409851074
+GCN loss on unlabled data: 2.447072982788086
+GCN acc on unlabled data: 0.49533333333333335
+attack loss: 2.4285683631896973
+GCN loss on unlabled data: 2.4909377098083496
+GCN acc on unlabled data: 0.49133333333333334
+attack loss: 2.5028586387634277
+GCN loss on unlabled data: 2.3209877014160156
+GCN acc on unlabled data: 0.49
+attack loss: 2.254838466644287
+GCN loss on unlabled data: 2.6094820499420166
+GCN acc on unlabled data: 0.49533333333333335
+attack loss: 2.5970420837402344
+GCN loss on unlabled data: 2.3425986766815186
+GCN acc on unlabled data: 0.488
+attack loss: 2.2862868309020996
+GCN loss on unlabled data: 2.443535566329956
+GCN acc on unlabled data: 0.48533333333333334
+attack loss: 2.410046100616455
+GCN loss on unlabled data: 2.4545364379882812
+GCN acc on unlabled data: 0.5086666666666667
+attack loss: 2.3879146575927734
+GCN loss on unlabled data: 2.469789505004883
+GCN acc on unlabled data: 0.49133333333333334
+attack loss: 2.44852614402771
+GCN loss on unlabled data: 2.5930228233337402
+GCN acc on unlabled data: 0.504
+attack loss: 2.5438497066497803
+GCN loss on unlabled data: 2.523634195327759
+GCN acc on unlabled data: 0.504
+attack loss: 2.518608331680298
+GCN loss on unlabled data: 2.4691271781921387
+GCN acc on unlabled data: 0.486
+attack loss: 2.431948661804199
+GCN loss on unlabled data: 2.6542396545410156
+GCN acc on unlabled data: 0.4673333333333333
+attack loss: 2.6350996494293213
+GCN loss on unlabled data: 2.494846820831299
+GCN acc on unlabled data: 0.472
+attack loss: 2.468064785003662
+GCN loss on unlabled data: 2.4545817375183105
+GCN acc on unlabled data: 0.506
+attack loss: 2.4181981086730957
+GCN loss on unlabled data: 2.3233590126037598
+GCN acc on unlabled data: 0.49066666666666664
+attack loss: 2.282993793487549
+GCN loss on unlabled data: 2.346656322479248
+GCN acc on unlabled data: 0.5106666666666667
+attack loss: 2.294663667678833
+GCN loss on unlabled data: 2.5585756301879883
+GCN acc on unlabled data: 0.486
+attack loss: 2.5669736862182617
+GCN loss on unlabled data: 2.583003282546997
+GCN acc on unlabled data: 0.4866666666666667
+attack loss: 2.545344352722168
+GCN loss on unlabled data: 2.3614518642425537
+GCN acc on unlabled data: 0.4886666666666667
+attack loss: 2.2862777709960938
+GCN loss on unlabled data: 2.672508716583252
+GCN acc on unlabled data: 0.49266666666666664
+attack loss: 2.6834795475006104
+GCN loss on unlabled data: 2.4223122596740723
+GCN acc on unlabled data: 0.488
+attack loss: 2.3900632858276367
+GCN loss on unlabled data: 2.63681697845459
+GCN acc on unlabled data: 0.47533333333333333
+attack loss: 2.6306660175323486
+GCN loss on unlabled data: 2.640169143676758
+GCN acc on unlabled data: 0.49266666666666664
+attack loss: 2.658679246902466
+GCN loss on unlabled data: 2.492363214492798
+GCN acc on unlabled data: 0.48
+attack loss: 2.4905736446380615
+GCN loss on unlabled data: 2.613917827606201
+GCN acc on unlabled data: 0.48733333333333334
+attack loss: 2.574251413345337
+GCN loss on unlabled data: 2.737171173095703
+GCN acc on unlabled data: 0.47933333333333333
+attack loss: 2.711872100830078
+GCN loss on unlabled data: 2.5535192489624023
+GCN acc on unlabled data: 0.48533333333333334
+attack loss: 2.5199925899505615
+GCN loss on unlabled data: 2.7494874000549316
+GCN acc on unlabled data: 0.4806666666666667
+attack loss: 2.7366249561309814
+GCN loss on unlabled data: 2.724052906036377
+GCN acc on unlabled data: 0.48933333333333334
+attack loss: 2.7105977535247803
+GCN loss on unlabled data: 2.5601003170013428
+GCN acc on unlabled data: 0.49133333333333334
+attack loss: 2.5513947010040283
+GCN loss on unlabled data: 2.6821932792663574
+GCN acc on unlabled data: 0.492
+attack loss: 2.691216230392456
+GCN loss on unlabled data: 2.5446231365203857
+GCN acc on unlabled data: 0.486
+attack loss: 2.5210092067718506
+GCN loss on unlabled data: 2.487837314605713
+GCN acc on unlabled data: 0.48733333333333334
+attack loss: 2.472259998321533
+GCN loss on unlabled data: 2.4808192253112793Perturbing graph:  53%|█████▎    | 417/791 [40:55<36:00,  5.78s/it]Perturbing graph:  53%|█████▎    | 418/791 [41:01<35:47,  5.76s/it]Perturbing graph:  53%|█████▎    | 419/791 [41:07<35:37,  5.75s/it]Perturbing graph:  53%|█████▎    | 420/791 [41:13<35:31,  5.74s/it]Perturbing graph:  53%|█████▎    | 421/791 [41:18<35:24,  5.74s/it]Perturbing graph:  53%|█████▎    | 422/791 [41:24<35:36,  5.79s/it]Perturbing graph:  53%|█████▎    | 423/791 [41:30<35:34,  5.80s/it]Perturbing graph:  54%|█████▎    | 424/791 [41:36<35:30,  5.81s/it]Perturbing graph:  54%|█████▎    | 425/791 [41:42<35:37,  5.84s/it]Perturbing graph:  54%|█████▍    | 426/791 [41:48<35:19,  5.81s/it]Perturbing graph:  54%|█████▍    | 427/791 [41:53<35:04,  5.78s/it]Perturbing graph:  54%|█████▍    | 428/791 [41:59<34:56,  5.77s/it]Perturbing graph:  54%|█████▍    | 429/791 [42:05<34:45,  5.76s/it]Perturbing graph:  54%|█████▍    | 430/791 [42:11<34:44,  5.77s/it]Perturbing graph:  54%|█████▍    | 431/791 [42:17<35:04,  5.85s/it]Perturbing graph:  55%|█████▍    | 432/791 [42:22<34:46,  5.81s/it]Perturbing graph:  55%|█████▍    | 433/791 [42:28<34:30,  5.78s/it]Perturbing graph:  55%|█████▍    | 434/791 [42:34<34:17,  5.76s/it]Perturbing graph:  55%|█████▍    | 435/791 [42:39<34:03,  5.74s/it]Perturbing graph:  55%|█████▌    | 436/791 [42:45<33:58,  5.74s/it]Perturbing graph:  55%|█████▌    | 437/791 [42:51<34:03,  5.77s/it]Perturbing graph:  55%|█████▌    | 438/791 [42:57<34:08,  5.80s/it]Perturbing graph:  55%|█████▌    | 439/791 [43:03<33:54,  5.78s/it]Perturbing graph:  56%|█████▌    | 440/791 [43:08<33:43,  5.77s/it]Perturbing graph:  56%|█████▌    | 441/791 [43:14<33:34,  5.76s/it]Perturbing graph:  56%|█████▌    | 442/791 [43:20<33:27,  5.75s/it]Perturbing graph:  56%|█████▌    | 443/791 [43:26<33:18,  5.74s/it]Perturbing graph:  56%|█████▌    | 444/791 [43:31<33:09,  5.73s/it]Perturbing graph:  56%|█████▋    | 445/791 [43:37<33:04,  5.74s/it]Perturbing graph:  56%|█████▋    | 446/791 [43:43<33:19,  5.80s/it]Perturbing graph:  57%|█████▋    | 447/791 [43:49<33:20,  5.82s/it]Perturbing graph:  57%|█████▋    | 448/791 [43:55<33:05,  5.79s/it]Perturbing graph:  57%|█████▋    | 449/791 [44:00<32:55,  5.78s/it]Perturbing graph:  57%|█████▋    | 450/791 [44:06<32:49,  5.78s/it]Perturbing graph:  57%|█████▋    | 451/791 [44:12<32:39,  5.76s/it]Perturbing graph:  57%|█████▋    | 452/791 [44:18<32:38,  5.78s/it]Perturbing graph:  57%|█████▋    | 453/791 [44:23<32:38,  5.80s/it]Perturbing graph:  57%|█████▋    | 454/791 [44:29<32:39,  5.81s/it]Perturbing graph:  58%|█████▊    | 455/791 [44:35<32:26,  5.79s/it]Perturbing graph:  58%|█████▊    | 456/791 [44:41<32:11,  5.77s/it]Perturbing graph:  58%|█████▊    | 457/791 [44:46<32:01,  5.75s/it]Perturbing graph:  58%|█████▊    | 458/791 [44:52<31:52,  5.74s/it]Perturbing graph:  58%|█████▊    | 459/791 [44:58<31:47,  5.75s/it]Perturbing graph:  58%|█████▊    | 460/791 [45:04<31:42,  5.75s/it]Perturbing graph:  58%|█████▊    | 461/791 [45:09<31:36,  5.75s/it]Perturbing graph:  58%|█████▊    | 462/791 [45:15<31:31,  5.75s/it]Perturbing graph:  59%|█████▊    | 463/791 [45:21<31:33,  5.77s/it]Perturbing graph:  59%|█████▊    | 464/791 [45:27<31:35,  5.80s/it]Perturbing graph:  59%|█████▉    | 465/791 [45:33<31:24,  5.78s/it]Perturbing graph:  59%|█████▉    | 466/791 [45:38<31:13,  5.77s/it]Perturbing graph:  59%|█████▉    | 467/791 [45:44<31:10,  5.77s/it]Perturbing graph:  59%|█████▉    | 468/791 [45:50<31:00,  5.76s/it]Perturbing graph:  59%|█████▉    | 469/791 [45:56<30:50,  5.75s/it]Perturbing graph:  59%|█████▉    | 470/791 [46:01<30:43,  5.74s/it]Perturbing graph:  60%|█████▉    | 471/791 [46:07<30:43,  5.76s/it]Perturbing graph:  60%|█████▉    | 472/791 [46:13<30:34,  5.75s/it]Perturbing graph:  60%|█████▉    | 473/791 [46:19<30:38,  5.78s/it]Perturbing graph:  60%|█████▉    | 474/791 [46:24<30:30,  5.77s/it]Perturbing graph:  60%|██████    | 475/791 [46:30<30:33,  5.80s/it]Perturbing graph:  60%|██████    | 476/791 [46:36<30:18,  5.77s/it]Perturbing graph:  60%|██████    | 477/791 [46:42<30:07,  5.75s/it]Perturbing graph:  60%|██████    | 478/791 [46:47<29:59,  5.75s/it]Perturbing graph:  61%|██████    | 479/791 [46:53<29:53,  5.75s/it]Perturbing graph:  61%|██████    | 480/791 [46:59<29:46,  5.74s/it]Perturbing graph:  61%|██████    | 481/791 [47:05<29:40,  5.74s/it]Perturbing graph:  61%|██████    | 482/791 [47:10<29:36,  5.75s/it]Perturbing graph:  61%|██████    | 483/791 [47:16<29:48,  5.81s/it]Perturbing graph:  61%|██████    | 484/791 [47:22<29:41,  5.80s/it]Perturbing graph:  61%|██████▏   | 485/791 [47:28<29:25,  5.77s/it]
+GCN acc on unlabled data: 0.4726666666666667
+attack loss: 2.4354705810546875
+GCN loss on unlabled data: 2.6564559936523438
+GCN acc on unlabled data: 0.4726666666666667
+attack loss: 2.6160454750061035
+GCN loss on unlabled data: 2.7162413597106934
+GCN acc on unlabled data: 0.4693333333333333
+attack loss: 2.7224769592285156
+GCN loss on unlabled data: 2.5707554817199707
+GCN acc on unlabled data: 0.4826666666666667
+attack loss: 2.565769910812378
+GCN loss on unlabled data: 2.576469659805298
+GCN acc on unlabled data: 0.492
+attack loss: 2.5485053062438965
+GCN loss on unlabled data: 2.6476635932922363
+GCN acc on unlabled data: 0.48533333333333334
+attack loss: 2.6241695880889893
+GCN loss on unlabled data: 2.5692827701568604
+GCN acc on unlabled data: 0.49333333333333335
+attack loss: 2.5454163551330566
+GCN loss on unlabled data: 2.499798059463501
+GCN acc on unlabled data: 0.478
+attack loss: 2.4565212726593018
+GCN loss on unlabled data: 2.7136874198913574
+GCN acc on unlabled data: 0.48
+attack loss: 2.679997205734253
+GCN loss on unlabled data: 2.7500171661376953
+GCN acc on unlabled data: 0.4866666666666667
+attack loss: 2.7387571334838867
+GCN loss on unlabled data: 2.8238589763641357
+GCN acc on unlabled data: 0.4846666666666667
+attack loss: 2.782702684402466
+GCN loss on unlabled data: 2.5378265380859375
+GCN acc on unlabled data: 0.47733333333333333
+attack loss: 2.497117280960083
+GCN loss on unlabled data: 2.677993059158325
+GCN acc on unlabled data: 0.4806666666666667
+attack loss: 2.67871356010437
+GCN loss on unlabled data: 2.7394940853118896
+GCN acc on unlabled data: 0.4766666666666667
+attack loss: 2.703005313873291
+GCN loss on unlabled data: 2.6613495349884033
+GCN acc on unlabled data: 0.4766666666666667
+attack loss: 2.6333425045013428
+GCN loss on unlabled data: 2.8408071994781494
+GCN acc on unlabled data: 0.488
+attack loss: 2.8376543521881104
+GCN loss on unlabled data: 2.8047239780426025
+GCN acc on unlabled data: 0.47
+attack loss: 2.799795627593994
+GCN loss on unlabled data: 2.7519662380218506
+GCN acc on unlabled data: 0.47333333333333333
+attack loss: 2.727226972579956
+GCN loss on unlabled data: 2.6811165809631348
+GCN acc on unlabled data: 0.47333333333333333
+attack loss: 2.6999990940093994
+GCN loss on unlabled data: 2.664036512374878
+GCN acc on unlabled data: 0.4713333333333333
+attack loss: 2.6461548805236816
+GCN loss on unlabled data: 2.7457408905029297
+GCN acc on unlabled data: 0.4646666666666667
+attack loss: 2.7192351818084717
+GCN loss on unlabled data: 2.7833786010742188
+GCN acc on unlabled data: 0.47333333333333333
+attack loss: 2.783830165863037
+GCN loss on unlabled data: 2.695786476135254
+GCN acc on unlabled data: 0.47
+attack loss: 2.664889097213745
+GCN loss on unlabled data: 2.772979736328125
+GCN acc on unlabled data: 0.48933333333333334
+attack loss: 2.76891827583313
+GCN loss on unlabled data: 2.870457649230957
+GCN acc on unlabled data: 0.4726666666666667
+attack loss: 2.864532947540283
+GCN loss on unlabled data: 2.6644186973571777
+GCN acc on unlabled data: 0.48
+attack loss: 2.600996255874634
+GCN loss on unlabled data: 2.2123873233795166
+GCN acc on unlabled data: 0.49333333333333335
+attack loss: 2.1805202960968018
+GCN loss on unlabled data: 2.8334317207336426
+GCN acc on unlabled data: 0.4706666666666667
+attack loss: 2.826164484024048
+GCN loss on unlabled data: 2.8779563903808594
+GCN acc on unlabled data: 0.484
+attack loss: 2.8745830059051514
+GCN loss on unlabled data: 2.8922536373138428
+GCN acc on unlabled data: 0.482
+attack loss: 2.851635694503784
+GCN loss on unlabled data: 2.697892665863037
+GCN acc on unlabled data: 0.4706666666666667
+attack loss: 2.650905132293701
+GCN loss on unlabled data: 2.824887275695801
+GCN acc on unlabled data: 0.472
+attack loss: 2.8339507579803467
+GCN loss on unlabled data: 2.833806037902832
+GCN acc on unlabled data: 0.466
+attack loss: 2.850168228149414
+GCN loss on unlabled data: 2.973958969116211
+GCN acc on unlabled data: 0.4786666666666667
+attack loss: 2.9691548347473145
+GCN loss on unlabled data: 2.865703821182251
+GCN acc on unlabled data: 0.4646666666666667
+attack loss: 2.799461841583252
+GCN loss on unlabled data: 2.911442756652832
+GCN acc on unlabled data: 0.4746666666666667
+attack loss: 2.8938159942626953
+GCN loss on unlabled data: 2.703618049621582
+GCN acc on unlabled data: 0.4846666666666667
+attack loss: 2.703941822052002
+GCN loss on unlabled data: 2.7627124786376953
+GCN acc on unlabled data: 0.4673333333333333
+attack loss: 2.7712295055389404
+GCN loss on unlabled data: 3.061005115509033
+GCN acc on unlabled data: 0.488
+attack loss: 3.072237730026245
+GCN loss on unlabled data: 2.8283958435058594
+GCN acc on unlabled data: 0.482
+attack loss: 2.815009832382202
+GCN loss on unlabled data: 2.7817256450653076
+GCN acc on unlabled data: 0.47733333333333333
+attack loss: 2.770933151245117
+GCN loss on unlabled data: 2.907578229904175
+GCN acc on unlabled data: 0.4706666666666667
+attack loss: 2.9247496128082275
+GCN loss on unlabled data: 2.8367884159088135
+GCN acc on unlabled data: 0.488
+attack loss: 2.8266067504882812
+GCN loss on unlabled data: 2.981764554977417
+GCN acc on unlabled data: 0.47533333333333333
+attack loss: 2.995964527130127
+GCN loss on unlabled data: 2.787658214569092
+GCN acc on unlabled data: 0.4746666666666667
+attack loss: 2.7829129695892334
+GCN loss on unlabled data: 2.993422746658325
+GCN acc on unlabled data: 0.45866666666666667
+attack loss: 2.986172914505005
+GCN loss on unlabled data: 2.8025107383728027
+GCN acc on unlabled data: 0.47933333333333333
+attack loss: 2.8100638389587402
+GCN loss on unlabled data: 2.801260471343994
+GCN acc on unlabled data: 0.4866666666666667
+attack loss: 2.8184263706207275
+GCN loss on unlabled data: 2.737091064453125
+GCN acc on unlabled data: 0.48733333333333334
+attack loss: 2.72831130027771
+GCN loss on unlabled data: 2.850637912750244
+GCN acc on unlabled data: 0.4806666666666667
+attack loss: 2.8411309719085693
+GCN loss on unlabled data: 2.8916008472442627
+GCN acc on unlabled data: 0.4786666666666667
+attack loss: 2.906752586364746
+GCN loss on unlabled data: 2.7549831867218018
+GCN acc on unlabled data: 0.47333333333333333
+attack loss: 2.726677179336548
+GCN loss on unlabled data: 2.6006290912628174
+GCN acc on unlabled data: 0.47
+attack loss: 2.581045150756836
+GCN loss on unlabled data: 2.5033018589019775
+GCN acc on unlabled data: 0.4846666666666667
+attack loss: 2.5014195442199707
+GCN loss on unlabled data: 2.8842952251434326
+GCN acc on unlabled data: 0.478
+attack loss: 2.917421579360962
+GCN loss on unlabled data: 3.123931884765625
+GCN acc on unlabled data: 0.4553333333333333
+attack loss: 3.1438815593719482
+GCN loss on unlabled data: 2.83388352394104
+GCN acc on unlabled data: 0.4686666666666667
+attack loss: 2.8048017024993896
+GCN loss on unlabled data: 3.013015031814575
+GCN acc on unlabled data: 0.4746666666666667
+attack loss: 2.974832773208618
+GCN loss on unlabled data: 2.922772169113159
+GCN acc on unlabled data: 0.466
+attack loss: 2.9722912311553955
+GCN loss on unlabled data: 2.89844012260437
+GCN acc on unlabled data: 0.464
+attack loss: 2.8720383644104004
+GCN loss on unlabled data: 2.8520960807800293
+GCN acc on unlabled data: 0.4693333333333333
+attack loss: 2.829378843307495
+GCN loss on unlabled data: 2.8378734588623047
+GCN acc on unlabled data: 0.4806666666666667
+attack loss: 2.835991144180298
+GCN loss on unlabled data: 3.087594985961914
+GCN acc on unlabled data: 0.476
+attack loss: 3.12341570854187
+GCN loss on unlabled data: 2.8676295280456543
+GCN acc on unlabled data: 0.4806666666666667
+attack loss: 2.9087531566619873
+GCN loss on unlabled data: 2.90427827835083
+GCN acc on unlabled data: 0.472
+attack loss: 2.8639156818389893
+GCN loss on unlabled data: 2.9654107093811035
+GCN acc on unlabled data: 0.466
+attack loss: 2.9948763847351074
+GCN loss on unlabled data: 3.064096689224243
+GCN acc on unlabled data: 0.46
+attack loss: 3.0580966472625732
+GCN loss on unlabled data: 2.933800220489502
+GCN acc on unlabled data: 0.4726666666666667
+attack loss: 2.9473869800567627
+GCN loss on unlabled data: 2.73531436920166
+GCN acc on unlabled data: 0.47733333333333333
+attack loss: 2.7514290809631348
+GCN loss on unlabled data: 2.632788896560669
+GCN acc on unlabled data: 0.4646666666666667
+attack loss: 2.6089706420898438Perturbing graph:  61%|██████▏   | 486/791 [47:34<29:16,  5.76s/it]Perturbing graph:  62%|██████▏   | 487/791 [47:39<29:05,  5.74s/it]Perturbing graph:  62%|██████▏   | 488/791 [47:45<28:57,  5.74s/it]Perturbing graph:  62%|██████▏   | 489/791 [47:51<28:51,  5.73s/it]Perturbing graph:  62%|██████▏   | 490/791 [47:56<28:45,  5.73s/it]Perturbing graph:  62%|██████▏   | 491/791 [48:02<28:41,  5.74s/it]Perturbing graph:  62%|██████▏   | 492/791 [48:08<28:35,  5.74s/it]Perturbing graph:  62%|██████▏   | 493/791 [48:14<28:30,  5.74s/it]Perturbing graph:  62%|██████▏   | 494/791 [48:20<28:38,  5.79s/it]Perturbing graph:  63%|██████▎   | 495/791 [48:25<28:32,  5.79s/it]Perturbing graph:  63%|██████▎   | 496/791 [48:31<28:23,  5.78s/it]Perturbing graph:  63%|██████▎   | 497/791 [48:37<28:16,  5.77s/it]Perturbing graph:  63%|██████▎   | 498/791 [48:43<28:09,  5.77s/it]Perturbing graph:  63%|██████▎   | 499/791 [48:48<28:03,  5.77s/it]Perturbing graph:  63%|██████▎   | 500/791 [48:54<28:03,  5.78s/it]Perturbing graph:  63%|██████▎   | 501/791 [49:00<27:48,  5.75s/it]Perturbing graph:  63%|██████▎   | 502/791 [49:06<27:53,  5.79s/it]Perturbing graph:  64%|██████▎   | 503/791 [49:12<28:01,  5.84s/it]Perturbing graph:  64%|██████▎   | 504/791 [49:18<27:48,  5.81s/it]Perturbing graph:  64%|██████▍   | 505/791 [49:23<27:43,  5.82s/it]Perturbing graph:  64%|██████▍   | 506/791 [49:29<27:31,  5.79s/it]Perturbing graph:  64%|██████▍   | 507/791 [49:35<27:24,  5.79s/it]Perturbing graph:  64%|██████▍   | 508/791 [49:41<27:13,  5.77s/it]Perturbing graph:  64%|██████▍   | 509/791 [49:46<27:10,  5.78s/it]Perturbing graph:  64%|██████▍   | 510/791 [49:52<27:00,  5.77s/it]Perturbing graph:  65%|██████▍   | 511/791 [49:58<27:08,  5.81s/it]Perturbing graph:  65%|██████▍   | 512/791 [50:04<26:59,  5.81s/it]Perturbing graph:  65%|██████▍   | 513/791 [50:10<26:52,  5.80s/it]Perturbing graph:  65%|██████▍   | 514/791 [50:15<26:40,  5.78s/it]Perturbing graph:  65%|██████▌   | 515/791 [50:21<26:37,  5.79s/it]Perturbing graph:  65%|██████▌   | 516/791 [50:27<26:26,  5.77s/it]Perturbing graph:  65%|██████▌   | 517/791 [50:33<26:23,  5.78s/it]Perturbing graph:  65%|██████▌   | 518/791 [50:38<26:15,  5.77s/it]Perturbing graph:  66%|██████▌   | 519/791 [50:44<26:08,  5.77s/it]Perturbing graph:  66%|██████▌   | 520/791 [50:50<25:59,  5.76s/it]Perturbing graph:  66%|██████▌   | 521/791 [50:56<26:17,  5.84s/it]Perturbing graph:  66%|██████▌   | 522/791 [51:02<26:05,  5.82s/it]Perturbing graph:  66%|██████▌   | 523/791 [51:07<25:52,  5.79s/it]Perturbing graph:  66%|██████▌   | 524/791 [51:13<25:43,  5.78s/it]Perturbing graph:  66%|██████▋   | 525/791 [51:19<25:34,  5.77s/it]Perturbing graph:  66%|██████▋   | 526/791 [51:25<25:25,  5.76s/it]Perturbing graph:  67%|██████▋   | 527/791 [51:31<25:23,  5.77s/it]Perturbing graph:  67%|██████▋   | 528/791 [51:36<25:16,  5.77s/it]Perturbing graph:  67%|██████▋   | 529/791 [51:42<25:10,  5.77s/it]Perturbing graph:  67%|██████▋   | 530/791 [51:48<25:10,  5.79s/it]Perturbing graph:  67%|██████▋   | 531/791 [51:54<25:06,  5.79s/it]Perturbing graph:  67%|██████▋   | 532/791 [51:59<24:56,  5.78s/it]Perturbing graph:  67%|██████▋   | 533/791 [52:05<24:49,  5.77s/it]Perturbing graph:  68%|██████▊   | 534/791 [52:11<24:40,  5.76s/it]Perturbing graph:  68%|██████▊   | 535/791 [52:17<24:33,  5.76s/it]Perturbing graph:  68%|██████▊   | 536/791 [52:22<24:25,  5.75s/it]Perturbing graph:  68%|██████▊   | 537/791 [52:28<24:19,  5.75s/it]Perturbing graph:  68%|██████▊   | 538/791 [52:34<24:12,  5.74s/it]Perturbing graph:  68%|██████▊   | 539/791 [52:40<24:06,  5.74s/it]Perturbing graph:  68%|██████▊   | 540/791 [52:45<24:00,  5.74s/it]Perturbing graph:  68%|██████▊   | 541/791 [52:51<24:08,  5.80s/it]Perturbing graph:  69%|██████▊   | 542/791 [52:57<24:03,  5.80s/it]Perturbing graph:  69%|██████▊   | 543/791 [53:03<23:54,  5.79s/it]Perturbing graph:  69%|██████▉   | 544/791 [53:09<23:52,  5.80s/it]Perturbing graph:  69%|██████▉   | 545/791 [53:14<23:41,  5.78s/it]Perturbing graph:  69%|██████▉   | 546/791 [53:20<23:32,  5.77s/it]Perturbing graph:  69%|██████▉   | 547/791 [53:26<23:24,  5.76s/it]Perturbing graph:  69%|██████▉   | 548/791 [53:32<23:17,  5.75s/it]Perturbing graph:  69%|██████▉   | 549/791 [53:37<23:11,  5.75s/it]Perturbing graph:  70%|██████▉   | 550/791 [53:43<23:09,  5.77s/it]Perturbing graph:  70%|██████▉   | 551/791 [53:49<23:05,  5.77s/it]Perturbing graph:  70%|██████▉   | 552/791 [53:55<23:13,  5.83s/it]Perturbing graph:  70%|██████▉   | 553/791 [54:01<23:02,  5.81s/it]Perturbing graph:  70%|███████   | 554/791 [54:06<22:53,  5.80s/it]Perturbing graph:  70%|███████   | 555/791 [54:12<22:46,  5.79s/it]
+GCN loss on unlabled data: 2.959751844406128
+GCN acc on unlabled data: 0.4726666666666667
+attack loss: 2.9262614250183105
+GCN loss on unlabled data: 2.6147351264953613
+GCN acc on unlabled data: 0.48933333333333334
+attack loss: 2.635420560836792
+GCN loss on unlabled data: 3.0357131958007812
+GCN acc on unlabled data: 0.46266666666666667
+attack loss: 3.0365140438079834
+GCN loss on unlabled data: 2.937587022781372
+GCN acc on unlabled data: 0.4666666666666667
+attack loss: 2.9122397899627686
+GCN loss on unlabled data: 2.9152884483337402
+GCN acc on unlabled data: 0.4706666666666667
+attack loss: 2.916717052459717
+GCN loss on unlabled data: 2.9751267433166504
+GCN acc on unlabled data: 0.4553333333333333
+attack loss: 2.9995310306549072
+GCN loss on unlabled data: 3.0900049209594727
+GCN acc on unlabled data: 0.4786666666666667
+attack loss: 3.0919418334960938
+GCN loss on unlabled data: 2.9194746017456055
+GCN acc on unlabled data: 0.474
+attack loss: 2.939150333404541
+GCN loss on unlabled data: 3.186842441558838
+GCN acc on unlabled data: 0.464
+attack loss: 3.180396556854248
+GCN loss on unlabled data: 2.985445022583008
+GCN acc on unlabled data: 0.4573333333333333
+attack loss: 2.96801495552063
+GCN loss on unlabled data: 2.8723654747009277
+GCN acc on unlabled data: 0.46066666666666667
+attack loss: 2.867269515991211
+GCN loss on unlabled data: 3.153754949569702
+GCN acc on unlabled data: 0.464
+attack loss: 3.136587619781494
+GCN loss on unlabled data: 2.9470412731170654
+GCN acc on unlabled data: 0.4646666666666667
+attack loss: 2.974504232406616
+GCN loss on unlabled data: 2.6458706855773926
+GCN acc on unlabled data: 0.462
+attack loss: 2.660203218460083
+GCN loss on unlabled data: 2.9149439334869385
+GCN acc on unlabled data: 0.4646666666666667
+attack loss: 2.8895113468170166
+GCN loss on unlabled data: 2.4705417156219482
+GCN acc on unlabled data: 0.4706666666666667
+attack loss: 2.4610562324523926
+GCN loss on unlabled data: 2.993990659713745
+GCN acc on unlabled data: 0.4713333333333333
+attack loss: 2.997851848602295
+GCN loss on unlabled data: 3.0715575218200684
+GCN acc on unlabled data: 0.4713333333333333
+attack loss: 3.079272747039795
+GCN loss on unlabled data: 2.806440830230713
+GCN acc on unlabled data: 0.47333333333333333
+attack loss: 2.8093128204345703
+GCN loss on unlabled data: 2.986339569091797
+GCN acc on unlabled data: 0.468
+attack loss: 3.010422945022583
+GCN loss on unlabled data: 3.060225009918213
+GCN acc on unlabled data: 0.472
+attack loss: 3.0756585597991943
+GCN loss on unlabled data: 2.9955949783325195
+GCN acc on unlabled data: 0.466
+attack loss: 2.997727155685425
+GCN loss on unlabled data: 3.185488700866699
+GCN acc on unlabled data: 0.4513333333333333
+attack loss: 3.138611316680908
+GCN loss on unlabled data: 3.0959653854370117
+GCN acc on unlabled data: 0.456
+attack loss: 3.0651721954345703
+GCN loss on unlabled data: 3.0764122009277344
+GCN acc on unlabled data: 0.46066666666666667
+attack loss: 3.0559499263763428
+GCN loss on unlabled data: 3.0081944465637207
+GCN acc on unlabled data: 0.4573333333333333
+attack loss: 3.0383734703063965
+GCN loss on unlabled data: 3.248164653778076
+GCN acc on unlabled data: 0.444
+attack loss: 3.2533724308013916
+GCN loss on unlabled data: 2.832599401473999
+GCN acc on unlabled data: 0.45866666666666667
+attack loss: 2.8208320140838623
+GCN loss on unlabled data: 3.1525371074676514
+GCN acc on unlabled data: 0.458
+attack loss: 3.1897239685058594
+GCN loss on unlabled data: 3.3195579051971436
+GCN acc on unlabled data: 0.464
+attack loss: 3.338130235671997
+GCN loss on unlabled data: 3.2635514736175537
+GCN acc on unlabled data: 0.4706666666666667
+attack loss: 3.287731885910034
+GCN loss on unlabled data: 3.084240674972534
+GCN acc on unlabled data: 0.46266666666666667
+attack loss: 3.034604787826538
+GCN loss on unlabled data: 3.2902557849884033
+GCN acc on unlabled data: 0.45
+attack loss: 3.2829244136810303
+GCN loss on unlabled data: 2.9128236770629883
+GCN acc on unlabled data: 0.4553333333333333
+attack loss: 2.923607110977173
+GCN loss on unlabled data: 2.9870810508728027
+GCN acc on unlabled data: 0.4666666666666667
+attack loss: 3.026120662689209
+GCN loss on unlabled data: 3.086555242538452
+GCN acc on unlabled data: 0.4553333333333333
+attack loss: 3.0435802936553955
+GCN loss on unlabled data: 3.1763601303100586
+GCN acc on unlabled data: 0.45
+attack loss: 3.1901068687438965
+GCN loss on unlabled data: 3.188790798187256
+GCN acc on unlabled data: 0.466
+attack loss: 3.2169649600982666
+GCN loss on unlabled data: 3.1809020042419434
+GCN acc on unlabled data: 0.4686666666666667
+attack loss: 3.2230846881866455
+GCN loss on unlabled data: 3.1418590545654297
+GCN acc on unlabled data: 0.45466666666666666
+attack loss: 3.1518030166625977
+GCN loss on unlabled data: 2.9702327251434326
+GCN acc on unlabled data: 0.45266666666666666
+attack loss: 2.9624266624450684
+GCN loss on unlabled data: 3.2947938442230225
+GCN acc on unlabled data: 0.46
+attack loss: 3.3584744930267334
+GCN loss on unlabled data: 2.883002281188965
+GCN acc on unlabled data: 0.4573333333333333
+attack loss: 2.8643364906311035
+GCN loss on unlabled data: 2.950834274291992
+GCN acc on unlabled data: 0.442
+attack loss: 2.936126947402954
+GCN loss on unlabled data: 3.183277130126953
+GCN acc on unlabled data: 0.454
+attack loss: 3.206829786300659
+GCN loss on unlabled data: 3.0297253131866455
+GCN acc on unlabled data: 0.458
+attack loss: 3.0327863693237305
+GCN loss on unlabled data: 3.2278809547424316
+GCN acc on unlabled data: 0.4513333333333333
+attack loss: 3.2676620483398438
+GCN loss on unlabled data: 3.229416608810425
+GCN acc on unlabled data: 0.48533333333333334
+attack loss: 3.2768685817718506
+GCN loss on unlabled data: 3.08089542388916
+GCN acc on unlabled data: 0.44666666666666666
+attack loss: 3.0883595943450928
+GCN loss on unlabled data: 3.114936590194702
+GCN acc on unlabled data: 0.45266666666666666
+attack loss: 3.1258230209350586
+GCN loss on unlabled data: 2.955197334289551
+GCN acc on unlabled data: 0.45866666666666667
+attack loss: 2.9507946968078613
+GCN loss on unlabled data: 3.090949296951294
+GCN acc on unlabled data: 0.4713333333333333
+attack loss: 3.127563714981079
+GCN loss on unlabled data: 2.869621753692627
+GCN acc on unlabled data: 0.46266666666666667
+attack loss: 2.8969082832336426
+GCN loss on unlabled data: 3.0448226928710938
+GCN acc on unlabled data: 0.458
+attack loss: 3.0588316917419434
+GCN loss on unlabled data: 3.1644928455352783
+GCN acc on unlabled data: 0.45
+attack loss: 3.1636836528778076
+GCN loss on unlabled data: 3.2424166202545166
+GCN acc on unlabled data: 0.45466666666666666
+attack loss: 3.2555367946624756
+GCN loss on unlabled data: 3.2911670207977295
+GCN acc on unlabled data: 0.452
+attack loss: 3.341003894805908
+GCN loss on unlabled data: 3.3990397453308105
+GCN acc on unlabled data: 0.434
+attack loss: 3.372307538986206
+GCN loss on unlabled data: 2.9612948894500732
+GCN acc on unlabled data: 0.452
+attack loss: 2.9914700984954834
+GCN loss on unlabled data: 3.261549472808838
+GCN acc on unlabled data: 0.4666666666666667
+attack loss: 3.324402332305908
+GCN loss on unlabled data: 3.3722152709960938
+GCN acc on unlabled data: 0.44466666666666665
+attack loss: 3.3839166164398193
+GCN loss on unlabled data: 3.0772705078125
+GCN acc on unlabled data: 0.4533333333333333
+attack loss: 3.0911262035369873
+GCN loss on unlabled data: 3.1024746894836426
+GCN acc on unlabled data: 0.46066666666666667
+attack loss: 3.1267123222351074
+GCN loss on unlabled data: 3.3372347354888916
+GCN acc on unlabled data: 0.45066666666666666
+attack loss: 3.374345302581787
+GCN loss on unlabled data: 3.2503867149353027
+GCN acc on unlabled data: 0.456
+attack loss: 3.2556354999542236
+GCN loss on unlabled data: 3.2394967079162598
+GCN acc on unlabled data: 0.462
+attack loss: 3.2648963928222656
+GCN loss on unlabled data: 3.2114439010620117
+GCN acc on unlabled data: 0.46266666666666667
+attack loss: 3.208340883255005
+GCN loss on unlabled data: 3.0633108615875244
+GCN acc on unlabled data: 0.468
+attack loss: 3.0953478813171387
+GCN loss on unlabled data: 3.275749683380127
+GCN acc on unlabled data: 0.44466666666666665
+attack loss: 3.277494192123413
+GCN loss on unlabled data: 3.6239540576934814
+GCN acc on unlabled data: 0.44733333333333336Perturbing graph:  70%|███████   | 556/791 [54:18<22:43,  5.80s/it]Perturbing graph:  70%|███████   | 557/791 [54:24<22:33,  5.78s/it]Perturbing graph:  71%|███████   | 558/791 [54:30<22:32,  5.80s/it]Perturbing graph:  71%|███████   | 559/791 [54:35<22:22,  5.79s/it]Perturbing graph:  71%|███████   | 560/791 [54:41<22:23,  5.82s/it]Perturbing graph:  71%|███████   | 561/791 [54:47<22:12,  5.80s/it]Perturbing graph:  71%|███████   | 562/791 [54:53<22:02,  5.77s/it]Perturbing graph:  71%|███████   | 563/791 [54:58<21:54,  5.76s/it]Perturbing graph:  71%|███████▏  | 564/791 [55:04<21:50,  5.77s/it]Perturbing graph:  71%|███████▏  | 565/791 [55:10<21:47,  5.79s/it]Perturbing graph:  72%|███████▏  | 566/791 [55:16<21:38,  5.77s/it]Perturbing graph:  72%|███████▏  | 567/791 [55:22<21:31,  5.77s/it]Perturbing graph:  72%|███████▏  | 568/791 [55:27<21:26,  5.77s/it]Perturbing graph:  72%|███████▏  | 569/791 [55:33<21:19,  5.76s/it]Perturbing graph:  72%|███████▏  | 570/791 [55:39<21:23,  5.81s/it]Perturbing graph:  72%|███████▏  | 571/791 [55:45<21:23,  5.83s/it]Perturbing graph:  72%|███████▏  | 572/791 [55:51<21:11,  5.80s/it]Perturbing graph:  72%|███████▏  | 573/791 [55:56<20:59,  5.78s/it]Perturbing graph:  73%|███████▎  | 574/791 [56:02<20:51,  5.77s/it]Perturbing graph:  73%|███████▎  | 575/791 [56:08<20:45,  5.77s/it]Perturbing graph:  73%|███████▎  | 576/791 [56:14<20:40,  5.77s/it]Perturbing graph:  73%|███████▎  | 577/791 [56:19<20:32,  5.76s/it]Perturbing graph:  73%|███████▎  | 578/791 [56:25<20:25,  5.75s/it]Perturbing graph:  73%|███████▎  | 579/791 [56:31<20:22,  5.77s/it]Perturbing graph:  73%|███████▎  | 580/791 [56:37<20:34,  5.85s/it]Perturbing graph:  73%|███████▎  | 581/791 [56:43<20:24,  5.83s/it]Perturbing graph:  74%|███████▎  | 582/791 [56:48<20:10,  5.79s/it]Perturbing graph:  74%|███████▎  | 583/791 [56:54<20:04,  5.79s/it]Perturbing graph:  74%|███████▍  | 584/791 [57:00<19:51,  5.76s/it]Perturbing graph:  74%|███████▍  | 585/791 [57:06<19:40,  5.73s/it]Perturbing graph:  74%|███████▍  | 586/791 [57:11<19:32,  5.72s/it]Perturbing graph:  74%|███████▍  | 587/791 [57:17<19:24,  5.71s/it]Perturbing graph:  74%|███████▍  | 588/791 [57:23<19:18,  5.71s/it]Perturbing graph:  74%|███████▍  | 589/791 [57:28<19:14,  5.72s/it]Perturbing graph:  75%|███████▍  | 590/791 [57:34<19:18,  5.76s/it]Perturbing graph:  75%|███████▍  | 591/791 [57:40<19:07,  5.74s/it]Perturbing graph:  75%|███████▍  | 592/791 [57:46<18:56,  5.71s/it]Perturbing graph:  75%|███████▍  | 593/791 [57:51<18:51,  5.71s/it]Perturbing graph:  75%|███████▌  | 594/791 [57:57<18:47,  5.72s/it]Perturbing graph:  75%|███████▌  | 595/791 [58:03<18:42,  5.73s/it]Perturbing graph:  75%|███████▌  | 596/791 [58:09<18:38,  5.74s/it]Perturbing graph:  75%|███████▌  | 597/791 [58:14<18:33,  5.74s/it]Perturbing graph:  76%|███████▌  | 598/791 [58:20<18:35,  5.78s/it]Perturbing graph:  76%|███████▌  | 599/791 [58:26<18:32,  5.79s/it]Perturbing graph:  76%|███████▌  | 600/791 [58:32<18:24,  5.78s/it]Perturbing graph:  76%|███████▌  | 601/791 [58:38<18:18,  5.78s/it]Perturbing graph:  76%|███████▌  | 602/791 [58:43<18:13,  5.79s/it]Perturbing graph:  76%|███████▌  | 603/791 [58:49<18:07,  5.78s/it]Perturbing graph:  76%|███████▋  | 604/791 [58:55<18:02,  5.79s/it]Perturbing graph:  76%|███████▋  | 605/791 [59:01<17:57,  5.79s/it]Perturbing graph:  77%|███████▋  | 606/791 [59:07<17:51,  5.79s/it]Perturbing graph:  77%|███████▋  | 607/791 [59:12<17:55,  5.85s/it]Perturbing graph:  77%|███████▋  | 608/791 [59:18<17:47,  5.84s/it]Perturbing graph:  77%|███████▋  | 609/791 [59:24<17:39,  5.82s/it]Perturbing graph:  77%|███████▋  | 610/791 [59:30<17:34,  5.82s/it]Perturbing graph:  77%|███████▋  | 611/791 [59:36<17:29,  5.83s/it]Perturbing graph:  77%|███████▋  | 612/791 [59:42<17:22,  5.82s/it]Perturbing graph:  77%|███████▋  | 613/791 [59:47<17:15,  5.82s/it]Perturbing graph:  78%|███████▊  | 614/791 [59:53<17:08,  5.81s/it]Perturbing graph:  78%|███████▊  | 615/791 [59:59<17:02,  5.81s/it]Perturbing graph:  78%|███████▊  | 616/791 [1:00:05<16:55,  5.80s/it]Perturbing graph:  78%|███████▊  | 617/791 [1:00:11<17:02,  5.87s/it]Perturbing graph:  78%|███████▊  | 618/791 [1:00:17<16:52,  5.85s/it]Perturbing graph:  78%|███████▊  | 619/791 [1:00:22<16:42,  5.83s/it]Perturbing graph:  78%|███████▊  | 620/791 [1:00:28<16:34,  5.82s/it]Perturbing graph:  79%|███████▊  | 621/791 [1:00:34<16:28,  5.81s/it]Perturbing graph:  79%|███████▊  | 622/791 [1:00:40<16:21,  5.81s/it]Perturbing graph:  79%|███████▉  | 623/791 [1:00:46<16:16,  5.81s/it]Perturbing graph:  79%|███████▉  | 624/791 [1:00:51<16:09,  5.81s/it]Perturbing graph:  79%|███████▉  | 625/791 [1:00:57<16:03,  5.81s/it]
+attack loss: 3.6846728324890137
+GCN loss on unlabled data: 3.17849063873291
+GCN acc on unlabled data: 0.448
+attack loss: 3.199446201324463
+GCN loss on unlabled data: 3.301959276199341
+GCN acc on unlabled data: 0.464
+attack loss: 3.338083267211914
+GCN loss on unlabled data: 3.1974904537200928
+GCN acc on unlabled data: 0.45066666666666666
+attack loss: 3.2477900981903076
+GCN loss on unlabled data: 3.1557981967926025
+GCN acc on unlabled data: 0.45666666666666667
+attack loss: 3.1477808952331543
+GCN loss on unlabled data: 3.1649413108825684
+GCN acc on unlabled data: 0.44666666666666666
+attack loss: 3.176309823989868
+GCN loss on unlabled data: 3.1500771045684814
+GCN acc on unlabled data: 0.4653333333333333
+attack loss: 3.148881196975708
+GCN loss on unlabled data: 3.483104705810547
+GCN acc on unlabled data: 0.45266666666666666
+attack loss: 3.5359902381896973
+GCN loss on unlabled data: 3.1804821491241455
+GCN acc on unlabled data: 0.4533333333333333
+attack loss: 3.180826425552368
+GCN loss on unlabled data: 3.386650323867798
+GCN acc on unlabled data: 0.458
+attack loss: 3.4348866939544678
+GCN loss on unlabled data: 3.16159725189209
+GCN acc on unlabled data: 0.4533333333333333
+attack loss: 3.1727590560913086
+GCN loss on unlabled data: 3.2816832065582275
+GCN acc on unlabled data: 0.45266666666666666
+attack loss: 3.2889201641082764
+GCN loss on unlabled data: 2.9724016189575195
+GCN acc on unlabled data: 0.468
+attack loss: 2.9574978351593018
+GCN loss on unlabled data: 3.1705527305603027
+GCN acc on unlabled data: 0.46066666666666667
+attack loss: 3.1744186878204346
+GCN loss on unlabled data: 3.217838764190674
+GCN acc on unlabled data: 0.432
+attack loss: 3.2048871517181396
+GCN loss on unlabled data: 3.2719886302948
+GCN acc on unlabled data: 0.44333333333333336
+attack loss: 3.3046953678131104
+GCN loss on unlabled data: 3.289682388305664
+GCN acc on unlabled data: 0.44
+attack loss: 3.3283112049102783
+GCN loss on unlabled data: 3.3673675060272217
+GCN acc on unlabled data: 0.442
+attack loss: 3.3468995094299316
+GCN loss on unlabled data: 3.311465263366699
+GCN acc on unlabled data: 0.454
+attack loss: 3.348548173904419
+GCN loss on unlabled data: 3.435889720916748
+GCN acc on unlabled data: 0.44066666666666665
+attack loss: 3.436351776123047
+GCN loss on unlabled data: 3.448298454284668
+GCN acc on unlabled data: 0.43266666666666664
+attack loss: 3.407928943634033
+GCN loss on unlabled data: 3.2455244064331055
+GCN acc on unlabled data: 0.4593333333333333
+attack loss: 3.3010976314544678
+GCN loss on unlabled data: 2.972193956375122
+GCN acc on unlabled data: 0.4686666666666667
+attack loss: 2.988816022872925
+GCN loss on unlabled data: 3.2805800437927246
+GCN acc on unlabled data: 0.454
+attack loss: 3.3499202728271484
+GCN loss on unlabled data: 3.127131462097168
+GCN acc on unlabled data: 0.446
+attack loss: 3.146592378616333
+GCN loss on unlabled data: 3.2468254566192627
+GCN acc on unlabled data: 0.44
+attack loss: 3.2336676120758057
+GCN loss on unlabled data: 3.149705171585083
+GCN acc on unlabled data: 0.43533333333333335
+attack loss: 3.172481060028076
+GCN loss on unlabled data: 3.4382171630859375
+GCN acc on unlabled data: 0.446
+attack loss: 3.5241198539733887
+GCN loss on unlabled data: 3.2888779640197754
+GCN acc on unlabled data: 0.452
+attack loss: 3.3173720836639404
+GCN loss on unlabled data: 3.336495876312256
+GCN acc on unlabled data: 0.4513333333333333
+attack loss: 3.3577473163604736
+GCN loss on unlabled data: 3.4513142108917236
+GCN acc on unlabled data: 0.43866666666666665
+attack loss: 3.496187925338745
+GCN loss on unlabled data: 3.299353837966919
+GCN acc on unlabled data: 0.44866666666666666
+attack loss: 3.3006064891815186
+GCN loss on unlabled data: 3.093522071838379
+GCN acc on unlabled data: 0.452
+attack loss: 3.080284833908081
+GCN loss on unlabled data: 3.3528072834014893
+GCN acc on unlabled data: 0.4533333333333333
+attack loss: 3.375727653503418
+GCN loss on unlabled data: 3.273416757583618
+GCN acc on unlabled data: 0.44333333333333336
+attack loss: 3.3241207599639893
+GCN loss on unlabled data: 3.354924201965332
+GCN acc on unlabled data: 0.44466666666666665
+attack loss: 3.375164031982422
+GCN loss on unlabled data: 3.3133840560913086
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.3442728519439697
+GCN loss on unlabled data: 3.3235907554626465
+GCN acc on unlabled data: 0.4493333333333333
+attack loss: 3.3120527267456055
+GCN loss on unlabled data: 3.136808156967163
+GCN acc on unlabled data: 0.45066666666666666
+attack loss: 3.114461898803711
+GCN loss on unlabled data: 3.3710689544677734
+GCN acc on unlabled data: 0.43666666666666665
+attack loss: 3.3754732608795166
+GCN loss on unlabled data: 3.118896722793579
+GCN acc on unlabled data: 0.44533333333333336
+attack loss: 3.143132209777832
+GCN loss on unlabled data: 3.263911724090576
+GCN acc on unlabled data: 0.45666666666666667
+attack loss: 3.2406511306762695
+GCN loss on unlabled data: 3.5410165786743164
+GCN acc on unlabled data: 0.4513333333333333
+attack loss: 3.5817365646362305
+GCN loss on unlabled data: 3.5652639865875244
+GCN acc on unlabled data: 0.4553333333333333
+attack loss: 3.602663993835449
+GCN loss on unlabled data: 3.486382246017456
+GCN acc on unlabled data: 0.44
+attack loss: 3.517080307006836
+GCN loss on unlabled data: 3.2733991146087646
+GCN acc on unlabled data: 0.45066666666666666
+attack loss: 3.32816481590271
+GCN loss on unlabled data: 3.189804792404175
+GCN acc on unlabled data: 0.44266666666666665
+attack loss: 3.186763048171997
+GCN loss on unlabled data: 3.541451930999756
+GCN acc on unlabled data: 0.44733333333333336
+attack loss: 3.598424196243286
+GCN loss on unlabled data: 3.6414289474487305
+GCN acc on unlabled data: 0.436
+attack loss: 3.6743690967559814
+GCN loss on unlabled data: 3.6371657848358154
+GCN acc on unlabled data: 0.44266666666666665
+attack loss: 3.7179341316223145
+GCN loss on unlabled data: 3.3652617931365967
+GCN acc on unlabled data: 0.458
+attack loss: 3.418473958969116
+GCN loss on unlabled data: 3.48043155670166
+GCN acc on unlabled data: 0.4553333333333333
+attack loss: 3.515570640563965
+GCN loss on unlabled data: 3.3540267944335938
+GCN acc on unlabled data: 0.454
+attack loss: 3.378303289413452
+GCN loss on unlabled data: 3.820952892303467
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.844736337661743
+GCN loss on unlabled data: 3.3640918731689453
+GCN acc on unlabled data: 0.4553333333333333
+attack loss: 3.4542031288146973
+GCN loss on unlabled data: 3.1532552242279053
+GCN acc on unlabled data: 0.4493333333333333
+attack loss: 3.201657772064209
+GCN loss on unlabled data: 3.441801071166992
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.4694156646728516
+GCN loss on unlabled data: 3.431088447570801
+GCN acc on unlabled data: 0.44066666666666665
+attack loss: 3.464520215988159
+GCN loss on unlabled data: 3.4850122928619385
+GCN acc on unlabled data: 0.446
+attack loss: 3.5088284015655518
+GCN loss on unlabled data: 3.1502575874328613
+GCN acc on unlabled data: 0.4513333333333333
+attack loss: 3.148549795150757
+GCN loss on unlabled data: 3.4788472652435303
+GCN acc on unlabled data: 0.43933333333333335
+attack loss: 3.531090259552002
+GCN loss on unlabled data: 3.7469658851623535
+GCN acc on unlabled data: 0.44666666666666666
+attack loss: 3.768313407897949
+GCN loss on unlabled data: 3.5705924034118652
+GCN acc on unlabled data: 0.43933333333333335
+attack loss: 3.6304404735565186
+GCN loss on unlabled data: 3.5590338706970215
+GCN acc on unlabled data: 0.43666666666666665
+attack loss: 3.598130464553833
+GCN loss on unlabled data: 3.3520443439483643
+GCN acc on unlabled data: 0.46
+attack loss: 3.3953163623809814
+GCN loss on unlabled data: 3.4797239303588867
+GCN acc on unlabled data: 0.442
+attack loss: 3.495025396347046
+GCN loss on unlabled data: 3.390321731567383
+GCN acc on unlabled data: 0.44866666666666666
+attack loss: 3.401799440383911
+GCN loss on unlabled data: 3.56650710105896
+GCN acc on unlabled data: 0.42866666666666664
+attack loss: 3.587676763534546
+GCN loss on unlabled data: 3.764869213104248
+GCN acc on unlabled data: 0.436
+attack loss: 3.801464080810547
+GCN loss on unlabled data: 3.4147815704345703
+GCN acc on unlabled data: 0.456
+attack loss: 3.45664119720459
+GCN loss on unlabled data: 3.052055597305298Perturbing graph:  79%|███████▉  | 626/791 [1:01:03<15:57,  5.80s/it]Perturbing graph:  79%|███████▉  | 627/791 [1:01:09<16:02,  5.87s/it]Perturbing graph:  79%|███████▉  | 628/791 [1:01:15<15:52,  5.84s/it]Perturbing graph:  80%|███████▉  | 629/791 [1:01:21<15:43,  5.83s/it]Perturbing graph:  80%|███████▉  | 630/791 [1:01:26<15:35,  5.81s/it]Perturbing graph:  80%|███████▉  | 631/791 [1:01:32<15:31,  5.82s/it]Perturbing graph:  80%|███████▉  | 632/791 [1:01:38<15:24,  5.81s/it]Perturbing graph:  80%|████████  | 633/791 [1:01:44<15:17,  5.81s/it]Perturbing graph:  80%|████████  | 634/791 [1:01:50<15:11,  5.81s/it]Perturbing graph:  80%|████████  | 635/791 [1:01:55<15:06,  5.81s/it]Perturbing graph:  80%|████████  | 636/791 [1:02:01<15:08,  5.86s/it]Perturbing graph:  81%|████████  | 637/791 [1:02:07<15:00,  5.85s/it]Perturbing graph:  81%|████████  | 638/791 [1:02:13<14:51,  5.83s/it]Perturbing graph:  81%|████████  | 639/791 [1:02:19<14:43,  5.81s/it]Perturbing graph:  81%|████████  | 640/791 [1:02:25<14:35,  5.80s/it]Perturbing graph:  81%|████████  | 641/791 [1:02:30<14:28,  5.79s/it]Perturbing graph:  81%|████████  | 642/791 [1:02:36<14:21,  5.78s/it]Perturbing graph:  81%|████████▏ | 643/791 [1:02:42<14:15,  5.78s/it]Perturbing graph:  81%|████████▏ | 644/791 [1:02:48<14:08,  5.77s/it]Perturbing graph:  82%|████████▏ | 645/791 [1:02:53<14:03,  5.77s/it]Perturbing graph:  82%|████████▏ | 646/791 [1:02:59<14:06,  5.84s/it]Perturbing graph:  82%|████████▏ | 647/791 [1:03:05<13:58,  5.82s/it]Perturbing graph:  82%|████████▏ | 648/791 [1:03:11<13:49,  5.80s/it]Perturbing graph:  82%|████████▏ | 649/791 [1:03:17<13:41,  5.79s/it]Perturbing graph:  82%|████████▏ | 650/791 [1:03:22<13:34,  5.78s/it]Perturbing graph:  82%|████████▏ | 651/791 [1:03:28<13:28,  5.78s/it]Perturbing graph:  82%|████████▏ | 652/791 [1:03:34<13:22,  5.77s/it]Perturbing graph:  83%|████████▎ | 653/791 [1:03:40<13:15,  5.77s/it]Perturbing graph:  83%|████████▎ | 654/791 [1:03:45<13:09,  5.76s/it]Perturbing graph:  83%|████████▎ | 655/791 [1:03:51<13:03,  5.76s/it]Perturbing graph:  83%|████████▎ | 656/791 [1:03:57<13:05,  5.82s/it]Perturbing graph:  83%|████████▎ | 657/791 [1:04:03<12:58,  5.81s/it]Perturbing graph:  83%|████████▎ | 658/791 [1:04:09<12:51,  5.80s/it]Perturbing graph:  83%|████████▎ | 659/791 [1:04:15<12:44,  5.79s/it]Perturbing graph:  83%|████████▎ | 660/791 [1:04:20<12:38,  5.79s/it]Perturbing graph:  84%|████████▎ | 661/791 [1:04:26<12:32,  5.79s/it]Perturbing graph:  84%|████████▎ | 662/791 [1:04:32<12:26,  5.79s/it]Perturbing graph:  84%|████████▍ | 663/791 [1:04:38<12:21,  5.79s/it]Perturbing graph:  84%|████████▍ | 664/791 [1:04:43<12:14,  5.78s/it]Perturbing graph:  84%|████████▍ | 665/791 [1:04:49<12:12,  5.82s/it]Perturbing graph:  84%|████████▍ | 666/791 [1:04:55<12:17,  5.90s/it]Perturbing graph:  84%|████████▍ | 667/791 [1:05:02<12:36,  6.10s/it]Perturbing graph:  84%|████████▍ | 668/791 [1:05:09<12:47,  6.24s/it]Perturbing graph:  85%|████████▍ | 669/791 [1:05:15<12:53,  6.34s/it]Perturbing graph:  85%|████████▍ | 670/791 [1:05:22<12:56,  6.42s/it]Perturbing graph:  85%|████████▍ | 671/791 [1:05:28<12:56,  6.47s/it]Perturbing graph:  85%|████████▍ | 672/791 [1:05:35<12:56,  6.52s/it]Perturbing graph:  85%|████████▌ | 673/791 [1:05:42<12:52,  6.55s/it]Perturbing graph:  85%|████████▌ | 674/791 [1:05:48<12:54,  6.62s/it]Perturbing graph:  85%|████████▌ | 675/791 [1:05:55<12:51,  6.65s/it]Perturbing graph:  85%|████████▌ | 676/791 [1:06:02<12:57,  6.76s/it]Perturbing graph:  86%|████████▌ | 677/791 [1:06:10<13:18,  7.01s/it]Perturbing graph:  86%|████████▌ | 678/791 [1:06:18<14:07,  7.50s/it]Perturbing graph:  86%|████████▌ | 679/791 [1:06:26<14:07,  7.57s/it]Perturbing graph:  86%|████████▌ | 680/791 [1:06:35<14:42,  7.95s/it]Perturbing graph:  86%|████████▌ | 681/791 [1:06:42<13:58,  7.63s/it]Perturbing graph:  86%|████████▌ | 682/791 [1:06:49<13:26,  7.40s/it]Perturbing graph:  86%|████████▋ | 683/791 [1:06:55<12:57,  7.20s/it]Perturbing graph:  86%|████████▋ | 684/791 [1:07:02<12:35,  7.06s/it]Perturbing graph:  87%|████████▋ | 685/791 [1:07:09<12:18,  6.96s/it]Perturbing graph:  87%|████████▋ | 686/791 [1:07:16<12:03,  6.89s/it]Perturbing graph:  87%|████████▋ | 687/791 [1:07:22<11:51,  6.84s/it]Perturbing graph:  87%|████████▋ | 688/791 [1:07:29<11:40,  6.80s/it]Perturbing graph:  87%|████████▋ | 689/791 [1:07:36<11:30,  6.77s/it]Perturbing graph:  87%|████████▋ | 690/791 [1:07:42<11:22,  6.76s/it]Perturbing graph:  87%|████████▋ | 691/791 [1:07:49<11:17,  6.78s/it]Perturbing graph:  87%|████████▋ | 692/791 [1:07:56<11:09,  6.77s/it]Perturbing graph:  88%|████████▊ | 693/791 [1:08:03<10:59,  6.73s/it]Perturbing graph:  88%|████████▊ | 694/791 [1:08:09<10:52,  6.73s/it]Perturbing graph:  88%|████████▊ | 695/791 [1:08:16<10:45,  6.73s/it]
+GCN acc on unlabled data: 0.456
+attack loss: 3.054760694503784
+GCN loss on unlabled data: 3.4555540084838867
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.4890847206115723
+GCN loss on unlabled data: 3.7025437355041504
+GCN acc on unlabled data: 0.434
+attack loss: 3.7244982719421387
+GCN loss on unlabled data: 3.4977197647094727
+GCN acc on unlabled data: 0.444
+attack loss: 3.4771623611450195
+GCN loss on unlabled data: 3.4450647830963135
+GCN acc on unlabled data: 0.44
+attack loss: 3.460002899169922
+GCN loss on unlabled data: 3.615095615386963
+GCN acc on unlabled data: 0.432
+attack loss: 3.6448612213134766
+GCN loss on unlabled data: 3.6781814098358154
+GCN acc on unlabled data: 0.43733333333333335
+attack loss: 3.7021865844726562
+GCN loss on unlabled data: 3.2465837001800537
+GCN acc on unlabled data: 0.452
+attack loss: 3.2589352130889893
+GCN loss on unlabled data: 3.343257427215576
+GCN acc on unlabled data: 0.4533333333333333
+attack loss: 3.387982130050659
+GCN loss on unlabled data: 3.2263970375061035
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.294285774230957
+GCN loss on unlabled data: 3.556180715560913
+GCN acc on unlabled data: 0.444
+attack loss: 3.586559534072876
+GCN loss on unlabled data: 3.5977623462677
+GCN acc on unlabled data: 0.434
+attack loss: 3.6480071544647217
+GCN loss on unlabled data: 3.7971675395965576
+GCN acc on unlabled data: 0.43466666666666665
+attack loss: 3.8393242359161377
+GCN loss on unlabled data: 3.349445104598999
+GCN acc on unlabled data: 0.43933333333333335
+attack loss: 3.3834095001220703
+GCN loss on unlabled data: 3.518439769744873
+GCN acc on unlabled data: 0.43066666666666664
+attack loss: 3.5480051040649414
+GCN loss on unlabled data: 3.653670310974121
+GCN acc on unlabled data: 0.42866666666666664
+attack loss: 3.7005436420440674
+GCN loss on unlabled data: 3.602998733520508
+GCN acc on unlabled data: 0.43333333333333335
+attack loss: 3.6418917179107666
+GCN loss on unlabled data: 3.532280921936035
+GCN acc on unlabled data: 0.43266666666666664
+attack loss: 3.6051182746887207
+GCN loss on unlabled data: 3.6485726833343506
+GCN acc on unlabled data: 0.436
+attack loss: 3.7161355018615723
+GCN loss on unlabled data: 3.624425172805786
+GCN acc on unlabled data: 0.446
+attack loss: 3.720073938369751
+GCN loss on unlabled data: 3.528493881225586
+GCN acc on unlabled data: 0.43733333333333335
+attack loss: 3.586901903152466
+GCN loss on unlabled data: 3.6602389812469482
+GCN acc on unlabled data: 0.444
+attack loss: 3.7089452743530273
+GCN loss on unlabled data: 3.471724033355713
+GCN acc on unlabled data: 0.438
+attack loss: 3.4976913928985596
+GCN loss on unlabled data: 3.6058883666992188
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.6183760166168213
+GCN loss on unlabled data: 3.737725019454956
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.820363998413086
+GCN loss on unlabled data: 3.7228195667266846
+GCN acc on unlabled data: 0.444
+attack loss: 3.7507541179656982
+GCN loss on unlabled data: 3.2965891361236572
+GCN acc on unlabled data: 0.44866666666666666
+attack loss: 3.3454885482788086
+GCN loss on unlabled data: 3.519556999206543
+GCN acc on unlabled data: 0.438
+attack loss: 3.543578863143921
+GCN loss on unlabled data: 3.712716579437256
+GCN acc on unlabled data: 0.442
+attack loss: 3.7059271335601807
+GCN loss on unlabled data: 3.7731130123138428
+GCN acc on unlabled data: 0.462
+attack loss: 3.8417484760284424
+GCN loss on unlabled data: 3.50010085105896
+GCN acc on unlabled data: 0.454
+attack loss: 3.554476022720337
+GCN loss on unlabled data: 3.518430709838867
+GCN acc on unlabled data: 0.43333333333333335
+attack loss: 3.556283473968506
+GCN loss on unlabled data: 3.4553773403167725
+GCN acc on unlabled data: 0.446
+attack loss: 3.48306941986084
+GCN loss on unlabled data: 3.39271879196167
+GCN acc on unlabled data: 0.44066666666666665
+attack loss: 3.434804916381836
+GCN loss on unlabled data: 3.3704140186309814
+GCN acc on unlabled data: 0.42733333333333334
+attack loss: 3.372677803039551
+GCN loss on unlabled data: 3.572697639465332
+GCN acc on unlabled data: 0.42933333333333334
+attack loss: 3.5981364250183105
+GCN loss on unlabled data: 3.811645746231079
+GCN acc on unlabled data: 0.43666666666666665
+attack loss: 3.8744280338287354
+GCN loss on unlabled data: 3.660618782043457
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.70190167427063
+GCN loss on unlabled data: 3.5201900005340576
+GCN acc on unlabled data: 0.448
+attack loss: 3.515948534011841
+GCN loss on unlabled data: 3.745999336242676
+GCN acc on unlabled data: 0.434
+attack loss: 3.7874019145965576
+GCN loss on unlabled data: 3.5921669006347656
+GCN acc on unlabled data: 0.43666666666666665
+attack loss: 3.638604164123535
+GCN loss on unlabled data: 3.353494167327881
+GCN acc on unlabled data: 0.44333333333333336
+attack loss: 3.378253221511841
+GCN loss on unlabled data: 3.8721799850463867
+GCN acc on unlabled data: 0.434
+attack loss: 3.9230566024780273
+GCN loss on unlabled data: 3.422887086868286
+GCN acc on unlabled data: 0.442
+attack loss: 3.417111873626709
+GCN loss on unlabled data: 3.46488356590271
+GCN acc on unlabled data: 0.442
+attack loss: 3.519702196121216
+GCN loss on unlabled data: 3.5432870388031006
+GCN acc on unlabled data: 0.44866666666666666
+attack loss: 3.600095272064209
+GCN loss on unlabled data: 3.690150022506714
+GCN acc on unlabled data: 0.43866666666666665
+attack loss: 3.7473127841949463
+GCN loss on unlabled data: 3.4139010906219482
+GCN acc on unlabled data: 0.43333333333333335
+attack loss: 3.447554111480713
+GCN loss on unlabled data: 4.0059027671813965
+GCN acc on unlabled data: 0.44733333333333336
+attack loss: 4.109738826751709
+GCN loss on unlabled data: 3.8801753520965576
+GCN acc on unlabled data: 0.43733333333333335
+attack loss: 3.9062933921813965
+GCN loss on unlabled data: 3.290529251098633
+GCN acc on unlabled data: 0.43066666666666664
+attack loss: 3.2862343788146973
+GCN loss on unlabled data: 3.5146830081939697
+GCN acc on unlabled data: 0.4266666666666667
+attack loss: 3.521840810775757
+GCN loss on unlabled data: 3.7937979698181152
+GCN acc on unlabled data: 0.446
+attack loss: 3.826056718826294
+GCN loss on unlabled data: 3.7641725540161133
+GCN acc on unlabled data: 0.45266666666666666
+attack loss: 3.868278741836548
+GCN loss on unlabled data: 3.5944554805755615
+GCN acc on unlabled data: 0.44066666666666665
+attack loss: 3.6379053592681885
+GCN loss on unlabled data: 3.6306488513946533
+GCN acc on unlabled data: 0.43666666666666665
+attack loss: 3.6543915271759033
+GCN loss on unlabled data: 3.788438081741333
+GCN acc on unlabled data: 0.444
+attack loss: 3.838890314102173
+GCN loss on unlabled data: 3.836738348007202
+GCN acc on unlabled data: 0.43133333333333335
+attack loss: 3.8952183723449707
+GCN loss on unlabled data: 3.6868433952331543
+GCN acc on unlabled data: 0.43533333333333335
+attack loss: 3.7272799015045166
+GCN loss on unlabled data: 3.9048993587493896
+GCN acc on unlabled data: 0.43533333333333335
+attack loss: 3.953249454498291
+GCN loss on unlabled data: 3.808392286300659
+GCN acc on unlabled data: 0.422
+attack loss: 3.8678014278411865
+GCN loss on unlabled data: 3.94297456741333
+GCN acc on unlabled data: 0.442
+attack loss: 4.035911560058594
+GCN loss on unlabled data: 3.4855332374572754
+GCN acc on unlabled data: 0.436
+attack loss: 3.5065228939056396
+GCN loss on unlabled data: 3.683023452758789
+GCN acc on unlabled data: 0.43666666666666665
+attack loss: 3.735171318054199
+GCN loss on unlabled data: 3.9535105228424072
+GCN acc on unlabled data: 0.44
+attack loss: 4.048132419586182
+GCN loss on unlabled data: 3.6824584007263184
+GCN acc on unlabled data: 0.43666666666666665
+attack loss: 3.718472957611084
+GCN loss on unlabled data: 3.7628395557403564
+GCN acc on unlabled data: 0.442
+attack loss: 3.803781032562256
+GCN loss on unlabled data: 3.509105682373047
+GCN acc on unlabled data: 0.42733333333333334
+attack loss: 3.5584921836853027
+GCN loss on unlabled data: 3.428908109664917
+GCN acc on unlabled data: 0.44133333333333336
+attack loss: 3.4889469146728516
+GCN loss on unlabled data: 3.698809862136841
+GCN acc on unlabled data: 0.4493333333333333
+attack loss: 3.767733097076416
+GCN loss on unlabled data: 3.535120725631714
+GCN acc on unlabled data: 0.43Perturbing graph:  88%|████████▊ | 696/791 [1:08:23<10:40,  6.74s/it]Perturbing graph:  88%|████████▊ | 697/791 [1:08:30<10:32,  6.73s/it]Perturbing graph:  88%|████████▊ | 698/791 [1:08:36<10:25,  6.72s/it]Perturbing graph:  88%|████████▊ | 699/791 [1:08:43<10:16,  6.70s/it]Perturbing graph:  88%|████████▊ | 700/791 [1:08:50<10:13,  6.74s/it]Perturbing graph:  89%|████████▊ | 701/791 [1:08:57<10:06,  6.74s/it]Perturbing graph:  89%|████████▊ | 702/791 [1:09:03<09:59,  6.74s/it]Perturbing graph:  89%|████████▉ | 703/791 [1:09:10<09:49,  6.70s/it]Perturbing graph:  89%|████████▉ | 704/791 [1:09:16<09:39,  6.66s/it]Perturbing graph:  89%|████████▉ | 705/791 [1:09:23<09:19,  6.51s/it]Perturbing graph:  89%|████████▉ | 706/791 [1:09:29<09:06,  6.43s/it]Perturbing graph:  89%|████████▉ | 707/791 [1:09:35<08:49,  6.31s/it]Perturbing graph:  90%|████████▉ | 708/791 [1:09:41<08:37,  6.23s/it]Perturbing graph:  90%|████████▉ | 709/791 [1:09:47<08:40,  6.34s/it]Perturbing graph:  90%|████████▉ | 710/791 [1:09:53<08:22,  6.21s/it]Perturbing graph:  90%|████████▉ | 711/791 [1:09:59<08:07,  6.09s/it]Perturbing graph:  90%|█████████ | 712/791 [1:10:05<07:56,  6.03s/it]Perturbing graph:  90%|█████████ | 713/791 [1:10:11<07:45,  5.97s/it]Perturbing graph:  90%|█████████ | 714/791 [1:10:18<07:56,  6.19s/it]Perturbing graph:  90%|█████████ | 715/791 [1:10:24<07:53,  6.23s/it]Perturbing graph:  91%|█████████ | 716/791 [1:10:30<07:43,  6.18s/it]Perturbing graph:  91%|█████████ | 717/791 [1:10:36<07:32,  6.12s/it]Perturbing graph:  91%|█████████ | 718/791 [1:10:42<07:28,  6.14s/it]Perturbing graph:  91%|█████████ | 719/791 [1:10:48<07:20,  6.11s/it]Perturbing graph:  91%|█████████ | 720/791 [1:10:54<07:15,  6.14s/it]Perturbing graph:  91%|█████████ | 721/791 [1:11:01<07:11,  6.16s/it]Perturbing graph:  91%|█████████▏| 722/791 [1:11:07<07:01,  6.11s/it]Perturbing graph:  91%|█████████▏| 723/791 [1:11:13<06:52,  6.07s/it]Perturbing graph:  92%|█████████▏| 724/791 [1:11:19<06:48,  6.09s/it]Perturbing graph:  92%|█████████▏| 725/791 [1:11:25<06:40,  6.07s/it]Perturbing graph:  92%|█████████▏| 726/791 [1:11:31<06:35,  6.08s/it]Perturbing graph:  92%|█████████▏| 727/791 [1:11:37<06:28,  6.06s/it]Perturbing graph:  92%|█████████▏| 728/791 [1:11:43<06:24,  6.10s/it]Perturbing graph:  92%|█████████▏| 729/791 [1:11:49<06:19,  6.11s/it]Perturbing graph:  92%|█████████▏| 730/791 [1:11:55<06:12,  6.11s/it]Perturbing graph:  92%|█████████▏| 731/791 [1:12:01<06:05,  6.09s/it]Perturbing graph:  93%|█████████▎| 732/791 [1:12:07<05:57,  6.05s/it]Perturbing graph:  93%|█████████▎| 733/791 [1:12:14<05:53,  6.10s/it]Perturbing graph:  93%|█████████▎| 734/791 [1:12:20<05:47,  6.09s/it]Perturbing graph:  93%|█████████▎| 735/791 [1:12:26<05:40,  6.08s/it]Perturbing graph:  93%|█████████▎| 736/791 [1:12:32<05:31,  6.02s/it]Perturbing graph:  93%|█████████▎| 737/791 [1:12:38<05:26,  6.05s/it]Perturbing graph:  93%|█████████▎| 738/791 [1:12:44<05:22,  6.09s/it]Perturbing graph:  93%|█████████▎| 739/791 [1:12:50<05:17,  6.11s/it]Perturbing graph:  94%|█████████▎| 740/791 [1:12:56<05:09,  6.08s/it]Perturbing graph:  94%|█████████▎| 741/791 [1:13:02<05:05,  6.11s/it]Perturbing graph:  94%|█████████▍| 742/791 [1:13:08<04:58,  6.09s/it]Perturbing graph:  94%|█████████▍| 743/791 [1:13:14<04:50,  6.06s/it]Perturbing graph:  94%|█████████▍| 744/791 [1:13:20<04:43,  6.04s/it]Perturbing graph:  94%|█████████▍| 745/791 [1:13:26<04:35,  6.00s/it]Perturbing graph:  94%|█████████▍| 746/791 [1:13:32<04:28,  5.97s/it]Perturbing graph:  94%|█████████▍| 747/791 [1:13:38<04:22,  5.97s/it]Perturbing graph:  95%|█████████▍| 748/791 [1:13:44<04:19,  6.03s/it]Perturbing graph:  95%|█████████▍| 749/791 [1:13:50<04:14,  6.07s/it]Perturbing graph:  95%|█████████▍| 750/791 [1:13:57<04:11,  6.14s/it]Perturbing graph:  95%|█████████▍| 751/791 [1:14:03<04:03,  6.09s/it]Perturbing graph:  95%|█████████▌| 752/791 [1:14:09<03:56,  6.07s/it]Perturbing graph:  95%|█████████▌| 753/791 [1:14:15<03:55,  6.19s/it]Perturbing graph:  95%|█████████▌| 754/791 [1:14:21<03:47,  6.14s/it]Perturbing graph:  95%|█████████▌| 755/791 [1:14:27<03:40,  6.12s/it]Perturbing graph:  96%|█████████▌| 756/791 [1:14:33<03:34,  6.13s/it]Perturbing graph:  96%|█████████▌| 757/791 [1:14:39<03:26,  6.06s/it]Perturbing graph:  96%|█████████▌| 758/791 [1:14:45<03:20,  6.07s/it]Perturbing graph:  96%|█████████▌| 759/791 [1:14:52<03:17,  6.16s/it]Perturbing graph:  96%|█████████▌| 760/791 [1:14:58<03:10,  6.13s/it]Perturbing graph:  96%|█████████▌| 761/791 [1:15:04<03:06,  6.22s/it]Perturbing graph:  96%|█████████▋| 762/791 [1:15:10<02:58,  6.16s/it]Perturbing graph:  96%|█████████▋| 763/791 [1:15:16<02:52,  6.16s/it]Perturbing graph:  97%|█████████▋| 764/791 [1:15:22<02:45,  6.12s/it]Perturbing graph:  97%|█████████▋| 765/791 [1:15:29<02:41,  6.23s/it]Perturbing graph:  97%|█████████▋| 766/791 [1:15:35<02:33,  6.13s/it]
+attack loss: 3.583976984024048
+GCN loss on unlabled data: 3.5195469856262207
+GCN acc on unlabled data: 0.43733333333333335
+attack loss: 3.531832456588745
+GCN loss on unlabled data: 3.6199405193328857
+GCN acc on unlabled data: 0.44
+attack loss: 3.68127179145813
+GCN loss on unlabled data: 3.636984348297119
+GCN acc on unlabled data: 0.436
+attack loss: 3.6998441219329834
+GCN loss on unlabled data: 3.673762321472168
+GCN acc on unlabled data: 0.432
+attack loss: 3.71006178855896
+GCN loss on unlabled data: 4.028005123138428
+GCN acc on unlabled data: 0.442
+attack loss: 4.1280517578125
+GCN loss on unlabled data: 3.948563814163208
+GCN acc on unlabled data: 0.436
+attack loss: 3.995600938796997
+GCN loss on unlabled data: 3.7051618099212646
+GCN acc on unlabled data: 0.43
+attack loss: 3.729508399963379
+GCN loss on unlabled data: 3.7412405014038086
+GCN acc on unlabled data: 0.428
+attack loss: 3.784571886062622
+GCN loss on unlabled data: 3.668271780014038
+GCN acc on unlabled data: 0.43533333333333335
+attack loss: 3.6928036212921143
+GCN loss on unlabled data: 3.7294185161590576
+GCN acc on unlabled data: 0.442
+attack loss: 3.790954113006592
+GCN loss on unlabled data: 3.6141393184661865
+GCN acc on unlabled data: 0.44466666666666665
+attack loss: 3.670854091644287
+GCN loss on unlabled data: 3.834502935409546
+GCN acc on unlabled data: 0.434
+attack loss: 3.9063034057617188
+GCN loss on unlabled data: 3.3874645233154297
+GCN acc on unlabled data: 0.45
+attack loss: 3.4410347938537598
+GCN loss on unlabled data: 3.856818437576294
+GCN acc on unlabled data: 0.43333333333333335
+attack loss: 3.925467014312744
+GCN loss on unlabled data: 3.6572799682617188
+GCN acc on unlabled data: 0.44666666666666666
+attack loss: 3.7726032733917236
+GCN loss on unlabled data: 3.6732730865478516
+GCN acc on unlabled data: 0.42733333333333334
+attack loss: 3.687401056289673
+GCN loss on unlabled data: 3.7514901161193848
+GCN acc on unlabled data: 0.44
+attack loss: 3.818007230758667
+GCN loss on unlabled data: 3.762230157852173
+GCN acc on unlabled data: 0.4513333333333333
+attack loss: 3.845268487930298
+GCN loss on unlabled data: 3.422292709350586
+GCN acc on unlabled data: 0.43733333333333335
+attack loss: 3.437657594680786
+GCN loss on unlabled data: 3.6903398036956787
+GCN acc on unlabled data: 0.44066666666666665
+attack loss: 3.7445852756500244
+GCN loss on unlabled data: 3.812425374984741
+GCN acc on unlabled data: 0.44066666666666665
+attack loss: 3.899686813354492
+GCN loss on unlabled data: 3.547830104827881
+GCN acc on unlabled data: 0.436
+attack loss: 3.584446668624878
+GCN loss on unlabled data: 3.678410768508911
+GCN acc on unlabled data: 0.428
+attack loss: 3.7212932109832764
+GCN loss on unlabled data: 3.605104446411133
+GCN acc on unlabled data: 0.44666666666666666
+attack loss: 3.6539366245269775
+GCN loss on unlabled data: 3.807673215866089
+GCN acc on unlabled data: 0.4246666666666667
+attack loss: 3.860163688659668
+GCN loss on unlabled data: 3.999222993850708
+GCN acc on unlabled data: 0.43333333333333335
+attack loss: 4.052495002746582
+GCN loss on unlabled data: 3.8994553089141846
+GCN acc on unlabled data: 0.424
+attack loss: 3.951349973678589
+GCN loss on unlabled data: 3.9239659309387207
+GCN acc on unlabled data: 0.42933333333333334
+attack loss: 3.989682912826538
+GCN loss on unlabled data: 3.728353261947632
+GCN acc on unlabled data: 0.43933333333333335
+attack loss: 3.7751972675323486
+GCN loss on unlabled data: 3.8932108879089355
+GCN acc on unlabled data: 0.42
+attack loss: 3.962387800216675
+GCN loss on unlabled data: 3.952463150024414
+GCN acc on unlabled data: 0.428
+attack loss: 3.9965484142303467
+GCN loss on unlabled data: 3.66152024269104
+GCN acc on unlabled data: 0.444
+attack loss: 3.71215558052063
+GCN loss on unlabled data: 4.085840225219727
+GCN acc on unlabled data: 0.428
+attack loss: 4.154980182647705
+GCN loss on unlabled data: 3.672851800918579
+GCN acc on unlabled data: 0.45666666666666667
+attack loss: 3.753044366836548
+GCN loss on unlabled data: 3.8972673416137695
+GCN acc on unlabled data: 0.42866666666666664
+attack loss: 3.965151309967041
+GCN loss on unlabled data: 3.816499710083008
+GCN acc on unlabled data: 0.43133333333333335
+attack loss: 3.9218480587005615
+GCN loss on unlabled data: 3.7046587467193604
+GCN acc on unlabled data: 0.42933333333333334
+attack loss: 3.80336594581604
+GCN loss on unlabled data: 3.6004137992858887
+GCN acc on unlabled data: 0.42733333333333334
+attack loss: 3.612861394882202
+GCN loss on unlabled data: 3.973822832107544
+GCN acc on unlabled data: 0.44666666666666666
+attack loss: 4.05832052230835
+GCN loss on unlabled data: 3.9535930156707764
+GCN acc on unlabled data: 0.436
+attack loss: 4.065412998199463
+GCN loss on unlabled data: 3.5570640563964844
+GCN acc on unlabled data: 0.4266666666666667
+attack loss: 3.639869451522827
+GCN loss on unlabled data: 3.851428985595703
+GCN acc on unlabled data: 0.43266666666666664
+attack loss: 3.9112050533294678
+GCN loss on unlabled data: 3.7886626720428467
+GCN acc on unlabled data: 0.43133333333333335
+attack loss: 3.837977170944214
+GCN loss on unlabled data: 3.8024368286132812
+GCN acc on unlabled data: 0.43133333333333335
+attack loss: 3.8268179893493652
+GCN loss on unlabled data: 3.805082082748413
+GCN acc on unlabled data: 0.43933333333333335
+attack loss: 3.8672053813934326
+GCN loss on unlabled data: 3.7269747257232666
+GCN acc on unlabled data: 0.42333333333333334
+attack loss: 3.816436767578125
+GCN loss on unlabled data: 3.873385429382324
+GCN acc on unlabled data: 0.414
+attack loss: 3.9423248767852783
+GCN loss on unlabled data: 3.8192734718322754
+GCN acc on unlabled data: 0.43
+attack loss: 3.8644251823425293
+GCN loss on unlabled data: 3.9172918796539307
+GCN acc on unlabled data: 0.442
+attack loss: 4.014050006866455
+GCN loss on unlabled data: 4.04302978515625
+GCN acc on unlabled data: 0.432
+attack loss: 4.135491371154785
+GCN loss on unlabled data: 3.6678707599639893
+GCN acc on unlabled data: 0.438
+attack loss: 3.7084014415740967
+GCN loss on unlabled data: 3.4209535121917725
+GCN acc on unlabled data: 0.43933333333333335
+attack loss: 3.4694368839263916
+GCN loss on unlabled data: 3.892106771469116
+GCN acc on unlabled data: 0.43733333333333335
+attack loss: 3.959054946899414
+GCN loss on unlabled data: 3.944905996322632
+GCN acc on unlabled data: 0.434
+attack loss: 4.0172905921936035
+GCN loss on unlabled data: 3.982781171798706
+GCN acc on unlabled data: 0.43933333333333335
+attack loss: 4.016295433044434
+GCN loss on unlabled data: 3.7138209342956543
+GCN acc on unlabled data: 0.43666666666666665
+attack loss: 3.8270950317382812
+GCN loss on unlabled data: 3.8894224166870117
+GCN acc on unlabled data: 0.44533333333333336
+attack loss: 3.9833216667175293
+GCN loss on unlabled data: 4.1025190353393555
+GCN acc on unlabled data: 0.43066666666666664
+attack loss: 4.196927547454834
+GCN loss on unlabled data: 3.849836587905884
+GCN acc on unlabled data: 0.43733333333333335
+attack loss: 3.9260568618774414
+GCN loss on unlabled data: 3.8774306774139404
+GCN acc on unlabled data: 0.444
+attack loss: 3.9990463256835938
+GCN loss on unlabled data: 3.56014347076416
+GCN acc on unlabled data: 0.44066666666666665
+attack loss: 3.572129964828491
+GCN loss on unlabled data: 3.894261121749878
+GCN acc on unlabled data: 0.43266666666666664
+attack loss: 3.993379831314087
+GCN loss on unlabled data: 3.949209213256836
+GCN acc on unlabled data: 0.42
+attack loss: 4.053760051727295
+GCN loss on unlabled data: 3.6653244495391846
+GCN acc on unlabled data: 0.43533333333333335
+attack loss: 3.7410471439361572
+GCN loss on unlabled data: 3.8925094604492188
+GCN acc on unlabled data: 0.414
+attack loss: 3.9574828147888184
+GCN loss on unlabled data: 3.760150671005249
+GCN acc on unlabled data: 0.438
+attack loss: 3.8466110229492188
+GCN loss on unlabled data: 3.9647819995880127
+GCN acc on unlabled data: 0.424
+attack loss: 4.0756378173828125
+GCN loss on unlabled data: 3.8827784061431885
+GCN acc on unlabled data: 0.43866666666666665
+attack loss: 4.002679347991943
+GCN loss on unlabled data: 3.843316078186035
+GCN acc on unlabled data: 0.4186666666666667
+attack loss: 3.8892018795013428
+GCN loss on unlabled data: 4.079927444458008
+GCN acc on unlabled data: 0.4166666666666667
+attack loss: 4.170529842376709
+GCN loss on unlabled data: 3.8243491649627686Perturbing graph:  97%|█████████▋| 767/791 [1:15:41<02:29,  6.23s/it]Perturbing graph:  97%|█████████▋| 768/791 [1:15:47<02:22,  6.19s/it]Perturbing graph:  97%|█████████▋| 769/791 [1:15:53<02:14,  6.11s/it]Perturbing graph:  97%|█████████▋| 770/791 [1:15:59<02:08,  6.10s/it]Perturbing graph:  97%|█████████▋| 771/791 [1:16:05<02:01,  6.06s/it]Perturbing graph:  98%|█████████▊| 772/791 [1:16:11<01:54,  6.01s/it]Perturbing graph:  98%|█████████▊| 773/791 [1:16:17<01:49,  6.07s/it]Perturbing graph:  98%|█████████▊| 774/791 [1:16:23<01:42,  6.01s/it]Perturbing graph:  98%|█████████▊| 775/791 [1:16:30<01:37,  6.12s/it]Perturbing graph:  98%|█████████▊| 776/791 [1:16:36<01:30,  6.04s/it]Perturbing graph:  98%|█████████▊| 777/791 [1:16:42<01:24,  6.02s/it]Perturbing graph:  98%|█████████▊| 778/791 [1:16:48<01:18,  6.01s/it]Perturbing graph:  98%|█████████▊| 779/791 [1:16:54<01:12,  6.04s/it]Perturbing graph:  99%|█████████▊| 780/791 [1:17:03<01:18,  7.15s/it]Perturbing graph:  99%|█████████▊| 781/791 [1:17:09<01:08,  6.82s/it]Perturbing graph:  99%|█████████▉| 782/791 [1:17:15<00:59,  6.60s/it]Perturbing graph:  99%|█████████▉| 783/791 [1:17:21<00:51,  6.41s/it]Perturbing graph:  99%|█████████▉| 784/791 [1:17:27<00:43,  6.27s/it]Perturbing graph:  99%|█████████▉| 785/791 [1:17:34<00:37,  6.29s/it]Perturbing graph:  99%|█████████▉| 786/791 [1:17:40<00:31,  6.36s/it]Perturbing graph:  99%|█████████▉| 787/791 [1:17:52<00:32,  8.00s/it]cora_sr.sh: line 3: 22395 Killed                  python main.py -dataset cora -ntrials 5 -sparse 0 -epochs_cls 200 -lr_cls 0.001 -w_decay_cls 0.0005 -hidden_dim_cls 32 -dropout_cls 0.5 -dropedge_cls 0.75 -nlayers_cls 2 -patience_cls 10 -epochs 4000 -lr 0.01 -w_decay 0.0 -hidden_dim 512 -rep_dim 256 -proj_dim 256 -dropout 0.5 -dropedge_rate 0.5 -nlayers 2 -type_learner fgp -k 30 -sim_function cosine -activation_learner relu -gsl_mode structure_refinement -eval_freq 50 -tau 0.9999 -maskfeat_rate_learner 0.7 -maskfeat_rate_anchor 0.6 -contrast_batch_size 0 -c 0

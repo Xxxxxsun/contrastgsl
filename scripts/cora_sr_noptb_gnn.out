@@ -1,0 +1,82 @@
+/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/deeprobust/graph/data/__init__.py:12: UserWarning: Please install pytorch geometric if you would like to use the datasets from pytorch geometric. See details in https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+  "etric.readthedocs.io/en/latest/notes/installation.html")
+/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/deeprobust/graph/defense/__init__.py:18: UserWarning: Please install pytorch geometric if you would like to use the datasets from pytorch geometric. See details in https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+  "etric.readthedocs.io/en/latest/notes/installation.html")
+No module named 'torch_geometric'
+No module named 'torch_geometric'
+load_data
+
+works in noptb
+Traceback (most recent call last):
+  File "main.py", line 341, in <module>
+    experiment.train(args)
+  File "main.py", line 206, in train
+    loss, Adj = self.loss_gcl(model, graph_learner, features, anchor_adj)
+  File "main.py", line 62, in loss_gcl
+    learned_adj = graph_learner(features)
+  File "/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data/ytsun/SUBLIME-main/graph_learners.py", line 181, in forward
+    embeddings = self.internal_forward(features)
+  File "/data/ytsun/SUBLIME-main/graph_learners.py", line 157, in internal_forward
+    h = layer(h, self.adj)
+  File "/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data/ytsun/SUBLIME-main/layers.py", line 31, in forward
+    with g.local_scope():
+AttributeError: 'Tensor' object has no attribute 'local_scope'
+/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/deeprobust/graph/data/__init__.py:12: UserWarning: Please install pytorch geometric if you would like to use the datasets from pytorch geometric. See details in https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+  "etric.readthedocs.io/en/latest/notes/installation.html")
+/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/deeprobust/graph/defense/__init__.py:18: UserWarning: Please install pytorch geometric if you would like to use the datasets from pytorch geometric. See details in https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+  "etric.readthedocs.io/en/latest/notes/installation.html")
+No module named 'torch_geometric'
+No module named 'torch_geometric'
+load_data
+
+works in noptb
+Traceback (most recent call last):
+  File "main.py", line 341, in <module>
+    experiment.train(args)
+  File "main.py", line 206, in train
+    loss, Adj = self.loss_gcl(model, graph_learner, features, anchor_adj)
+  File "main.py", line 62, in loss_gcl
+    learned_adj = graph_learner(features)
+  File "/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data/ytsun/SUBLIME-main/graph_learners.py", line 182, in forward
+    embeddings = self.internal_forward(features)
+  File "/data/ytsun/SUBLIME-main/graph_learners.py", line 157, in internal_forward
+    h = layer(self.adj, h)
+  File "/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data/ytsun/SUBLIME-main/layers.py", line 31, in forward
+    with g.local_scope():
+AttributeError: 'Tensor' object has no attribute 'local_scope'
+/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/deeprobust/graph/data/__init__.py:12: UserWarning: Please install pytorch geometric if you would like to use the datasets from pytorch geometric. See details in https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+  "etric.readthedocs.io/en/latest/notes/installation.html")
+/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/deeprobust/graph/defense/__init__.py:18: UserWarning: Please install pytorch geometric if you would like to use the datasets from pytorch geometric. See details in https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+  "etric.readthedocs.io/en/latest/notes/installation.html")
+No module named 'torch_geometric'
+No module named 'torch_geometric'
+load_data
+
+works in noptb
+<class 'torch.Tensor'>
+Traceback (most recent call last):
+  File "main.py", line 341, in <module>
+    experiment.train(args)
+  File "main.py", line 206, in train
+    loss, Adj = self.loss_gcl(model, graph_learner, features, anchor_adj)
+  File "main.py", line 62, in loss_gcl
+    learned_adj = graph_learner(features)
+  File "/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data/ytsun/SUBLIME-main/graph_learners.py", line 183, in forward
+    embeddings = self.internal_forward(features)
+  File "/data/ytsun/SUBLIME-main/graph_learners.py", line 158, in internal_forward
+    h = layer(self.adj, h)
+  File "/data/ytsun/condaenv/prognn/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data/ytsun/SUBLIME-main/layers.py", line 31, in forward
+    with g.local_scope():
+AttributeError: 'Tensor' object has no attribute 'local_scope'
