@@ -8,8 +8,8 @@ from copy import deepcopy
 import torch
 import torch.nn.functional as F
 
-from data_loader import load_data
-#from data_loader import load_ptbdata
+#from data_loader import load_data
+from data_loader import load_ptbdata
 from model import GCN, GCL
 from graph_learners import *
 from utils import *
@@ -303,9 +303,9 @@ class Experiment:
         torch.cuda.set_device(args.gpu)
 
         if args.gsl_mode == 'structure_refinement':
-            features, nfeats, labels, nclasses, train_mask, val_mask, test_mask, adj_original = load_data(args)
+            features, nfeats, labels, nclasses, train_mask, val_mask, test_mask, adj_original = load_ptbdata(args)
         elif args.gsl_mode == 'structure_inference':
-            features, nfeats, labels, nclasses, train_mask, val_mask, test_mask, _ = load_data(args)
+            features, nfeats, labels, nclasses, train_mask, val_mask, test_mask, _ = load_ptbdata(args)
 
         if args.downstream_task == 'classification':
             test_accuracies = []
